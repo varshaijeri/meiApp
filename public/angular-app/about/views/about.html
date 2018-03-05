@@ -1,0 +1,40 @@
+<section>
+    <div class="container">
+        <h1 class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-bind="'CONTACT.HEADER'|translate"></h1>
+        <hr>
+        <div class="col-sm-6 col-xs-6 col-md-6 col-lg-6not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <ng-map zoom="13" center="Yesvantpur Jn,Bangalore" style="height:600px" on-center-changed="centerCustomMarker()">
+                <marker position="Yesvantpur Jn,Bangalore"></marker>
+            </ng-map>
+        </div>
+        <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <p class="red">
+                <strong ng-bind="'CONTACT.ADDRESS_KEY'|translate"></strong>
+            </p>
+            <p ng-bind="'CONTACT.ADDRESS_VALUE'|translate"></p>
+            <h3 class="red">
+                <strong ng-bind="'CONTACT.ISO'|translate"></strong>
+            </h3>
+            <p class="red">
+                <strong ng-bind="'CONTACT.PHONE_KEY'|translate"></strong>
+            </p>
+            <p ng-bind="'CONTACT.PHONE_VALUE'|translate"></p>
+            <p class="red">
+                <strong ng-bind="'CONTACT.MARKETING_KEY'|translate"></strong>
+            </p>
+            <p ng-bind="'CONTACT.MARKETING_VALUE'|translate"></p>
+            <p class="red">
+                <strong ng-bind="'CONTACT.SPARES_KEY'|translate"></strong>
+            </p>
+            <p ng-bind="'CONTACT.SPARES_VALUE'|translate"></p>
+            <p class="red">
+                <strong ng-bind="'CONTACT.FAX_KEY'|translate"></strong>
+            </p>
+            <p ng-bind="'CONTACT.FAX_VALUE'|translate"></p>
+            <p class="red">
+                <strong ng-bind="'CONTACT.EMAIL_KEY'|translate"></strong>
+            </p>
+            <p ng-bind="'CONTACT.EMAIL_VALUE'|translate"></p>
+        </div>
+    </div>
+</section>

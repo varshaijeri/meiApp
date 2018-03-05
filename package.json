@@ -1,0 +1,22 @@
+{
+  "name": "mei-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-animate": "^1.6.9",
+    "angular-aria": "^1.6.9",
+    "angular-material": "^1.1.7",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "ng-translate": "^1.0.3",
+    "path": "^0.12.7"
+  }
+}

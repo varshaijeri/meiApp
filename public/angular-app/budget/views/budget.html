@@ -1,0 +1,57 @@
+<section>
+    <div class="container">
+        <h1 ng-bind="'BUDGET.HEADER'|translate" class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut"></h1>
+        <hr>
+        <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <h2 class="white" ng-bind="'BUDGET.BUDGET_2014_15_TITLE'|translate"></h2>
+            <p ng-bind="'BUDGET.THE_MYSORE_ELECTRICAL_INDUSTRIES_LTD'|translate"></p>
+            <p ng-bind="'BUDGET.M_E_I_LTD'|translate"></p>
+            <p ng-bind="'BUDGET.DATE'|translate"></p>
+            <p ng-bind="'BUDGET.PERFORMANCE_HEAEDER'|translate"></p>
+        </div>
+        <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-repeat="(key, value) in budget">
+            <h3 class="red">{{"BUDGET."+key+".HEADER"|translate}}</h3>
+            <p ng-if="key != 'PERSONNEL_COST'">{{"BUDGET."+key+".DESCRIPTION"|translate}}</p>
+            <p ng-if="key == 'PERSONNEL_COST'">{{"BUDGET."+key+".DESCRIPTION1"|translate}}</p>
+            <p ng-if="key == 'PERSONNEL_COST'">{{"BUDGET."+key+".DESCRIPTION2"|translate}}</p>
+            <div ng-if="key == 'PERSONNEL_COST'">
+                <table class="table table-striped backgroundWhite">
+                    <tbody>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.WORKMEN_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.WORKMEN_VALUE"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.STAFF_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.STAFF_VALUE"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.SUPERINTENDENTS_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.SUPERINTENDENTS_VALUE"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.OFFICERS_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.OFFICERS_VALUE"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.TOTAL_PERMANENT_EMPLOYEES_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.TOTAL_PERMANENT_EMPLOYEES_VALUE"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.CASUAL_LABORERS_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.CASUAL_LABORERS_VALUE"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.APPRENTICES/TRAINEES_VALUE"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.APPRENTICES/TRAINEES_KEY"|translate}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{"BUDGET.PERSONNEL_COST.TOTAL_KEY"|translate}}</td>
+                            <td>{{"BUDGET.PERSONNEL_COST.TOTAL_VALUE"|translate}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,19 @@
+<section>
+    <div class="container">
+        <h1 class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-bind="'RETROFITTING.TITLE'|translate"></h1>
+        <hr>
+        <img class="not-visible img-responsive img-rounded margin-auto" when-visible="animateElementIn" when-not-visible="animateElementOut"
+            src="images/Retrofitting.jpg" alt="no image" />
+        <hr>
+        <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <p ng-bind="'RETROFITTING.DESCRIPTION'|translate"></p>
+            <table class="table table-striped backgroundWhite">
+                    <tbody>
+                        <tr ng-repeat="(key,value) in retrofitting">
+                            <td>{{"RETROFITTING."+key|translate}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,36 @@
+<section layout="row" flex class="min-height">
+
+    <md-sidenav class="md-sidenav-left min-customer-navbar-width" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4">
+        <md-toolbar class="md-theme-indigo">
+            <h1 class="md-toolbar-tools white" ng-bind="'NAVBAR.CUSTOMERS'|translate"></h1>
+        </md-toolbar>
+        <md-content layout-padding>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.customers({customerId:'STATE_GOVT'})">
+                {{'STATE_GOVT.HEADER'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.customers({customerId:'CENTRAL_GOVT'})">
+                {{'CENTRAL_GOVT.HEADER'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.customers({customerId:'SCIENTIFIC_ESTABLISHMENTS'})">
+                {{'SCIENTIFIC_ESTABLISHMENTS.HEADER'|translate}}
+            </md-button>
+        </md-content>
+    </md-sidenav>
+
+    <md-content flex layout-padding>
+        <div layout="column" layout-align="top center">
+            <div class="row">
+                <h1>{{header+'.TITLE'|translate}}</h1>
+                <hr>
+            </div>
+            <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+                <ul class="list-group">
+                    <li class="list-group-item list-group-item-success" ng-repeat="(key,value) in currentData">
+                        {{header+"."+key|translate}}{{key}}
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </md-content>
+
+</section>

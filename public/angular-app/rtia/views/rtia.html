@@ -1,0 +1,25 @@
+<section>
+    <div class="container">
+        <h1 class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-bind="'ABOUT.RIA'|translate"></h1>
+        <hr>
+        <md-content>
+            <md-tabs md-dynamic-height md-border-bottom>
+                <md-tab label="{{'RIA18-3.TITLE'|translate}}">
+                    <md-content class="md-padding">
+                        <div ng-include="'angular-app/rtia/views/rtia41a.html'"></div>
+                    </md-content>
+                </md-tab>
+                <md-tab label="{{'RIA1.TITLE'|translate}}">
+                    <md-content class="md-padding">
+                        <div ng-include="'angular-app/rtia/views/rtia41b.html'"></div>
+                    </md-content>
+                </md-tab>
+                <md-tab label="{{'RIA16.TITLE'|translate}}">
+                    <md-content class="md-padding">
+                        <div ng-include="'angular-app/rtia/views/rtia263b.html'"></div>
+                    </md-content>
+                </md-tab>
+            </md-tabs>
+        </md-content>
+    </div>
+</section>

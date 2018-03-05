@@ -1,0 +1,32 @@
+<section layout="row" flex>
+
+        <md-sidenav class="md-sidenav-left" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4">
+            <md-toolbar class="md-theme-indigo">
+                <h1 class="md-toolbar-tools white" ng-bind="'NAVBAR.QUALITY'|translate"></h1>
+            </md-toolbar>
+            <md-content layout-padding>
+                <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.quality({qualityId:'CERTIFICATES'})">
+                    {{'CERTIFICATES.HEADER'|translate}}
+                </md-button>
+                <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.quality({qualityId:'ROUTINE_TESTS'})">
+                    {{'ROUTINE_TESTS.HEADER'|translate}}
+                </md-button>
+                <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.quality({qualityId:'TESTING_FACILITIES'})">
+                    {{'TESTING_FACILITIES.HEADER'|translate}}
+                </md-button>
+                <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.quality({qualityId:'SHORT_CIRCUIT_PERFORMANCE'})">
+                    {{'SHORT_CIRCUIT_PERFORMANCE.HEADER'|translate}}
+                </md-button>
+                <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.quality({qualityId:'RESEARCH'})">
+                    {{'RESEARCH.HEADER'|translate}}
+                </md-button>
+            </md-content>
+        </md-sidenav>
+    
+        <md-content flex layout-padding>
+            <div layout="column" layout-align="top center" ng-include="page">
+                
+            </div>
+        </md-content>
+    
+    </section>

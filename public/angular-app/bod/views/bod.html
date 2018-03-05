@@ -1,0 +1,17 @@
+<section>
+    <div class="container">
+        <div class="row">
+            <h1 ng-bind="'ABOUT.BOARD_OF_DIRECTORS'|translate" class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut"></h1>
+            <hr>
+            <div ng-repeat="profile in profiles track by $index" class="card not-visible col-sm-6 col-lg-6 col-md-6 col-xs-6" when-visible="animateElementIn" when-not-visible="animateElementOut">
+                    <h1><button class="card-header">{{profile.NAME|translate}}</button></h1>
+                <p class="title-card">{{profile.A|translate}}</p>
+                <p class="title-card">{{profile.B|translate}}</p>
+                <p class="title-card">{{profile.C|translate}}</p>
+                <p class="title-card">{{profile.D|translate}}</p>
+                <p class="title-card">{{profile.E|translate}}</p>
+                <p class="title-card">{{profile.F|translate}}</p>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,144 @@
+<section>
+    <div>
+        <h3 class="md-display-2 black heading">
+            <strong ng-bind="'RIA1.TITLE'|translate"></strong>
+        </h3>
+        <h4 class="black" ng-bind="'RIA1.HEADER'|translate"></h4>
+        <p class="black" ng-bind="'RIA1.DESCRIPTION'|translate"></p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA2.DESCRIPTION1'|translate"></strong>
+        </p>
+        <p class="black" ng-bind="'RIA2.DESCRIPTION2'|translate"></p>
+        <p class="black">
+            <strong ng-bind="'RIA2.MARKETING.TITLE'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in mktg" ng-if="key != 'TITLE'">{{("RIA2.MARKETING."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA3.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in materialDiv" ng-if="key != 'HEADER'">{{("RIA3."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA4.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in accountDept" ng-if="key != 'HEADER'">{{("RIA4."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA5.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in prod" ng-if="key != 'HEADER'">{{("RIA5."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA6.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in planDept" ng-if="key == 'DESCRIPTION1' || key == 'DESCRIPTION2'">{{("RIA6."+key)|translate}}</p>
+        <p class="black">
+            <strong>{{"RIA6.SUB_HEADER1"|translate}}</strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in planDept" ng-if="key == 'A' || key == 'B' || key == 'C' || key == 'D'|| key == 'E'|| key == 'F'|| key == 'G'|| key == 'H'|| key == 'I'|| key == 'J'|| key == 'K'|| key == 'L'|| key == 'M'">{{("RIA6."+key)|translate}}</p>
+        <p class="black">
+            <strong>{{"RIA6.SUB_HEADER2"|translate}}</strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in planDept" ng-if="key == 'N' || key == 'O' || key == 'P'">{{("RIA6."+key)|translate}}</p>
+    </div>
+
+    <div>
+        <p class="black" ng-repeat="(key, value) in adminDept" ng-if="key == 'DESCRIPTION1' || key == 'DESCRIPTION2' || key == 'DESCRIPTION3'">{{("RIA7."+key)|translate}}</p>
+        <p class="black">
+            <strong>{{"RIA7.SUB_HEADER1"|translate}}</strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in adminDept" ng-if="key == 'A' || key == 'B' || key == 'C' || key == 'D'|| key == 'E'|| key == 'F'|| key == 'G'|| key == 'H'|| key == 'I'|| key == 'J'|| key == 'K'|| key == 'L'|| key == 'M'">{{("RIA7."+key)|translate}}</p>
+        <p class="black">
+            <strong>{{"RIA7.SUB_HEADER2"|translate}}</strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in adminDept" ng-if="key == 'N' || key == 'O' || key == 'P'|| key == 'Q'|| key == 'R'|| key == 'S'">{{("RIA7."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA8.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in devDept" ng-if="key != 'HEADER'">{{("RIA8."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA9.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in enggDept" ng-if="key != 'HEADER'">{{("RIA9."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA11.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in disFunc" ng-if="key != 'HEADER'">{{("RIA11."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA12.HEADER'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in RIA12" ng-if="key == 'A' || key == 'B' || key == 'C' || key == 'D'|| key == 'E'">{{("RIA12."+key)|translate}}</p>
+        <p class="black">
+            <strong ng-bind="'RIA12.DESCRIPTION'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in RIA12" ng-if="key == 'F' || key == 'G' || key == 'H' || key == 'I'|| key == 'J'|| key == 'K'|| key == 'L'|| key == 'J'|| key == 'K'|| key == 'L'|| key == 'M'|| key == 'N'|| key == 'O'|| key == 'P'|| key == 'Q'|| key == 'R'|| key == 'S'|| key == 'T'|| key == 'U'|| key == 'V'|| key == 'W'">{{("RIA12."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA13.HEADER1'|translate"></strong>
+        </p>
+        <p class="black">{{("RIA13.DESCRIPTION")|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA13.HEADER2'|translate"></strong>
+        </p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA14.HEADER1'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in RIA14" ng-if="key != 'HEADER2' && key != 'DESCRIPTION2'">{{("RIA14."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA15.HEADER1'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in RIA15" ng-if="key == 'A' || key == 'B' || key == 'C' || key == 'D'|| key == 'E' || key == 'F'|| key == 'G'">{{("RIA15."+key)|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA15.HEADER2'|translate"></strong>
+        </p>
+        <p class="black">{{("RIA15.H")|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA15.HEADER3'|translate"></strong>
+        </p>
+        <p class="black">{{("RIA15.DESCRIPTION1")|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA15.HEADER4'|translate"></strong>
+        </p>
+        <p class="black">{{("RIA15.DESCRIPTION2")|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA15.HEADER5'|translate"></strong>
+        </p>
+        <p class="black">{{("RIA15.DESCRIPTION3")|translate}}</p>
+    </div>
+    <div>
+        <p class="black">
+            <strong ng-bind="'RIA15.HEADER6'|translate"></strong>
+        </p>
+        <p class="black" ng-repeat="(key, value) in RIA15" ng-if="key == 'I'|| key == 'J' || key == 'K' || key == 'L'">{{("RIA15."+key)|translate}}</p>
+    </div>
+</section>

@@ -1,0 +1,27 @@
+<section>
+        <h1 class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-bind="'RESEARCH.TITLE'|translate"></h1>
+        <hr>
+        <div class="row" class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <img class="img-responsive img-rounded  margin-auto" src="images/research_development.jpg" alt="no image" />
+        </div>
+        <hr>
+        <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <div ng-repeat="(key,value) in research">
+                <p class="red"><strong>{{"RESEARCH."+key+".HEADER"|translate}}</strong></p>
+                <ol>
+                    <li class="black" ng-if="value.DESCRIPTION1">{{"RESEARCH."+key+".DESCRIPTION1"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION2">{{"RESEARCH."+key+".DESCRIPTION2"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION3">{{"RESEARCH."+key+".DESCRIPTION3"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION4">{{"RESEARCH."+key+".DESCRIPTION4"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION5">{{"RESEARCH."+key+".DESCRIPTION5"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION6">{{"RESEARCH."+key+".DESCRIPTION6"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION7">{{"RESEARCH."+key+".DESCRIPTION7"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION8">{{"RESEARCH."+key+".DESCRIPTION8"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION9">{{"RESEARCH."+key+".DESCRIPTION9"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION10">{{"RESEARCH."+key+".DESCRIPTION10"|translate}}</li>
+                    <li class="black" ng-if="value.DESCRIPTION11">{{"RESEARCH."+key+".DESCRIPTION11"|translate}}</li>
+                </ol>
+            </div>
+            <p class="black">{{"RESEARCH.SUB_HEADER3.ENDING"|translate}}</p>
+        </div>
+    </section>

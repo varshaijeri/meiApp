@@ -1,0 +1,3472 @@
+{
+    "HOME": {
+        "TITLE": "Hello Angular 2 with ng2-translate!",
+        "SELECT": "Change language",
+        "SEARCH": "Search"
+    },
+    "NAVBAR": {
+        "ABOUT": "ABOUT",
+        "PRODUCTS": "PRODUCTS",
+        "SERVICES": "SERVICES",
+        "SPARES": "SPARES",
+        "QUALITY": "QUALITY",
+        "CUSTOMERS": "CUSTOMERS",
+        "DEALERS": "DEALERS",
+        "CONTACT": "CONTACT"
+    },
+    "ABOUT": {
+        "RIA": "RTIA",
+        "BUDGET": "BUDGET",
+        "MANUFACTURING_PROCESS": "MANUFACTURING PROCESS",
+        "ORGANISATION_CHART": "ORGANISATION CHART",
+        "MANAGEMENT_PROFILE": "MANAGEMENT PROFILE",
+        "COMPANY_PROFILE": "COMPANY PROFILE",
+        "VISION": "VISION",
+        "BOARD_OF_DIRECTORS": "BOARD OF DIRECTORS",
+        "WHO_WE_ARE_TITLE": "Who we are?",
+        "WHAT_WE_DO_TITLE": "What we do?",
+        "HOW_WE_DO_TITLE": "How we do?",
+        "WHAT'S_NEW_TITLE": "What's new?",
+        "WHO_WE_ARE_DESCRIPTION": "The Mysore Electrical Industries Limited is a leading public sector undertaking of the Government of Karnataka and the first among the pioneers who have brought switchgear into India.",
+        "WHAT_WE_DO_DESCRIPTION": "In the power generation and distribution scene, MEI has been making significant contribution with High Tension and Low Tension Switchgears for the past 7 decades.",
+        "HOW_WE_DO_DESCRIPTION": "MEI have established a time tested and streamlined quality Assurance procedure. The staff engaged are highly experienced and competitive in stage inspection, inwards material inspection and testing and assembly inspection and Testing.",
+        "WHAT'S_NEW_DESCRIPTION": "We have launched a new product -Compact RMU with Sulphur Hexaflouride(SF6) LBS & Vacuum Circuit Breaker with Distribution automation system (DAS)"
+    },
+    "PRODUCTS": {
+        "PCVCB": "PORCELAIN CLAD VCB (PCVCB)",
+        "MCVCBO": "METAL CLAD VCB (MCVCB) OUTDOOR",
+        "MCVCBI": "METAL CLAD VCB (MCVCB) INDOOR",
+        "VCRMU": "VERY COMPACT RMU (VCRMU)",
+        "CSSS": "COMPACT SECONDARY SUB-STATION",
+        "CRMUSF6": "COMPACT RMU WITH SF6 LBS & VCB",
+        "VR5I": "VR 5 Indoor Panel",
+        "VR5O": "VR 5 Outdoor Panel (RMU)"
+    },
+    "MEI": {
+        "ABBREVIATION": "The Mysore Electrical Industries Ltd.",
+        "MOTTO": "We are Professionals in Power Protection",
+        "WE_LIKE_TO_INTRODUCE": "WE LIKE TO INTRODUCE",
+        "M_E_I": "M E I",
+        "OFFICE": "MEI OFFICE",
+        "WHY_MEI_TITLE": "WHY MEI?",
+        "WHY_MEI_DESCRIPTION": "The company is self contained in respect of infrastructure and manufacturing facilities backed up by established Research and Development Division including Computer Circuit Breaker Analyzer, Computer Aided Design Center, Computer Aided planning well equipped testing division and a reputed Tool Room.",
+        "CERTIFICATES": "CERTIFICATES"
+    },
+    "MAKE": {
+        "HEADER": "WE MAKE THINGS WHICH YOU FEEL PROUD",
+        "TITLE": "PRODUCTS & SPARES",
+        "DESCRIPTION": "All MEI products carry the hallmark of independent certification from foreign collaborators and CPRI’s at Bhopal and Bangalore. Today, after more than 60 years later , MEI’s products span the globe; Australia, Singapore , Kenya, Kuwait, Ceylon, Burma, Bahrain, Sudan, UAE, Cyprus and many other countries.",
+        "READ_MORE": "READ MORE"
+    },
+    "COMPANY_PROFILE": {
+        "HEADER": "Company Profile",
+        "TITLE": "The Mysore Electrical Industries Limited",
+        "DESCRIPTION_BOLD": "MEI is a leading public sector undertaking of the Government of Karnataka and the first among the pioneers who have brought switchgear into India. The company was established in the year 1945, more than seven decades ago and is in the business of manufacturing high quality Switchgear, Motor Control Gears and Solid State Electronic relays and allied switchgear equipment i.e., Instrument Transformers used in switchgear and other industrial applications.",
+        "DESCRIPTION_NORMAL1": "In the year 1945 the company entered into a collaboration with the British Company M/s. J.G. Statters and Company, for the manufacture of LT Oil Circuit Breaker up to 800 Amps. In the year 1956 this agreement was extended to cover Bulk Oil Circuit Breaker up to 12kV, 350MVA and 800 Amps, 12kV oil Fuse Switches and 12kV On-Load Oil Immersed Isolators. The company entered into an agreement with M/s. Stark storm of West Germany for the manufacturing of 10Amps and 25Amps LV Air-Break AC Contactors.",
+        "DESCRIPTION_NORMAL2": "In 1955 the company negotiated an agreement with M/s Gardy, S.A., Geneva, Switzerland, for the manufacturing of their H.T and E.H.T Minimum Oil Content Circuit Breakers. The company has diversified its activities by designing and developing Solid State Relays within the Company for Power System Protection and Industrial applications.",
+        "DESCRIPTION_NORMAL3": "In the year 1986 the company entered into a collaboration with M/s. E.I.B., S.A., Belgium, for manufacturing sophisticated Vacuum Circuit Breakers up to 33kV, 40kA and up to current rating of 3000Amps. All the above products have been successfully launched in the market and MEI has retained its reputation for quality products ever since its inceptions. The company is supplying to almost all the leading Electricity Boards and undertakings and industrial users through out the country.",
+        "DESCRIPTION_NORMAL4": "The company is self contained in respect of infrastructure and manufacturing facilities backed up by established Research and Development Division including Computer Circuit Breaker Analyzer, Computer Aided Design Center, Computer Aided planning well equipped testing division and a reputed Tool Room. In the year 1992 the company’s R&D has successfully developed Porcelain Clad Vacuum Circuit Breaker of electrical rating 12kV, 25kA and 1250Amps and successfully launched this product into market.",
+        "DESCRIPTION_NORMAL5": "MEI’s Product line today, comprises a wide range of High-Voltage circuit breakers, high voltage metal clad switchgears, stator rotor starters, Direct-On-Line and an array of relays and control devices, to name a few. MEI’s strong points according to independent industry observes Wide range of contemporary electrical equipment with extensive areas of application.",
+        "DESCRIPTION_NORMAL6": "All MEI products carry the hallmark of independent certification from foreign collaborators and CPRI’s at Bhopal and Bangalore. Today, after more than 60 years later , MEI’s products span the globe; Australia, Singapore , Kenya, Kuwait, Ceylon, Burma, Bahrain, Sudan, UAE, Cyprus and many other countries."
+    },
+    "VISION": {
+        "HEADER": "Vision",
+        "DESCRIPTION_BOLD": "MEI is working towards achieving Annul Turnover Target of Rs.75 Crores by 2016-2017. Main Thrust is given on R & D activities to keep ahead of Time in Technological changes and Market requirements.",
+        "DESCRIPTION_NORMAL1": "We continue to keep our Quality Standards high by which, reputation of MEI products is well known since seven decades.",
+        "DESCRIPTION_NORMAL2": "We are widening our Vendor Base, who are all ISO Certified, This is, to be Competitive in the Market and for Timely Delivery.",
+        "DESCRIPTION_NORMAL3": "Our Quality policy is “To achieve Total customer satisfaction by continuous improvement in Product, Corrective and Preventive action on Customer complaints and regular Management Reviews”."
+    },
+    "MANAGEMENT_PROFILE": {
+        "HEADER": "Management Profile",
+        "1": {
+            "NAME": "Madam Komala",
+            "QUALIFICATION": "M.Com.",
+            "DESIGNATION": "MANAGING DIRECTOR",
+            "MOBILE": "9740253345",
+            "OFFICE": "080 23370793",
+            "EMAIL": "mei1md@rediffmil.com"
+        },
+        "2": {
+            "NAME": "Sri.S E Uddanna",
+            "DESIGNATION": "Dy.General Manager (Works)I/C",
+            "MOBILE": "9449016506",
+            "OFFICE": "080 23475065",
+            "EMAIL": "meiworksdgm@gmail.com"
+        },
+        "3": {
+            "NAME": "Sri. R. Balachandra",
+            "DESIGNATION": "Dy. Gen.Manager (Material Encharge) and Manager ( Maintenance, Projects)",
+            "MOBILE": "9448375146",
+            "OFFICE": "080 23379507",
+            "EMAIL": "meimatls9@gmail.com"
+        },
+        "4": {
+            "NAME": "Sri. C.H.Mallikarjuna",
+            "DESIGNATION": "Manager (P&IR)",
+            "MOBILE": "9448376644",
+            "OFFICE": "080 23372697",
+            "EMAIL": "mallikarjunach_hr@yahoo.com"
+        },
+        "5": {
+            "NAME": "Sri V .Manohar",
+            "DESIGNATION": "Manager(QA/TR/Testing)",
+            "MOBILE": "944847941"
+        },
+        "6": {
+            "NAME": "Sri Sharanappa",
+            "DESIGNATION": "Manager (Q A)",
+            "MOBILE": "94835569859",
+            "OFFICE": "08023379506",
+            "EMAIL": "meimatls9@gmail.com"
+        },
+        "7": {
+            "NAME": "Sri. P.Thimmanna",
+            "DESIGNATION": "Manager (Marketing)",
+            "MOBILE": "9481921708",
+            "OFFICE": "080 23371811",
+            "EMAIL": "meimktg@rediffmail.com"
+        },
+        "8": {
+            "NAME": "Sri. A.S Ijeri",
+            "DESIGNATION": "Dy General Manager (Repair section)",
+            "MOBILE": "9481286446",
+            "OFFICE": "080 23576289",
+            "EMAIL": "meicexdept@gmail.com"
+        },
+        "9": {
+            "NAME": "Sri N. Sriramaprasad",
+            "DESIGNATION": "Deputy Manager (Finance & Accounts)",
+            "MOBILE": "9448073316",
+            "OFFICE": "080 23576289"
+        }
+    },
+    "ORGANISATION_CHART": {
+        "HEADER": "Organisation Chart"
+    },
+    "MANUFACTURING_PROCESS": {
+        "HEADER": "Manufacturing Process",
+        "DESCRIPTION1": "The Raw Materials and bought out Items are procured directly from the manufacturers to assure genuineness of the items. All items procured are inspected and tested as per the relevant standards The various materials undergo in-house manufacturing process on various machines.",
+        "DESCRIPTION2": "In order to achieve the desired quality, all items undergo inspection at all stages of manufacturing Finally 100% Inspection / Tests are carried out before sending them to assembly lines.",
+        "DESCRIPTION3": "Fabricated parts and tanks are neatly welded and all oil tanks are of leak proof welding. Oil tanks are pressure tested to examine leakage, if any, before they are sent to assembly lines.",
+        "DESCRIPTION4": "All parts which undergo painting degreased and hot phosphates to avoid corrosion, by 7 Hot Tank treatment before it is finally painted. Even parts which undergo plating are degreased and plated",
+        "DESCRIPTION5": "Painting consists of one coat of Red Oxide Primer and 2 coats of finish paint (as per the customers requirement). Every stage of sub-assembly is subjected to strict inspection and testing Care is being taken to achieve inter-changeability.",
+        "DESCRIPTION6": "All fasteners are tightened using torque wrenches and oil leads are tightened to optimum levels. All mechanisms are inspected and tested both mechanically and electrically before effecting dispatch to ensure trouble free service in the field.",
+        "PAINTING_PROCEDURE": {
+            "HEADER": "Painting Procedure",
+            "DESCRIPTION1": "All MS items undergo pre-treatment for rust removal and phosphating in a specially created 7 tank plant. The 7 tank plant contains alkahal bath, water bath, acid bath, water bath, phosphating and passivation.",
+            "DESCRIPTION2": "The strength of the both acid and phosphating solution are periodically checked in the laboratory and depending upon the strength of the acid, advice is given to replerish / replace the acid / phosphating solution.",
+            "DESCRIPTION3": "Further all these items are coated with zinc primer red-oxide for prevention of rust and then 2 to 3 coats of finished painting is applied before dispatching the same. Stove enamel painting facility is also available.",
+            "DESCRIPTION4": "The fabricated items and castings which are filled with oil etc. will be subject to leak prevention test by conducting pressure test on the same. Also all the tanks of the Circuit Breakers are subject to pressure testing."
+        }
+    },
+    "BUDGET": {
+        "HEADER": "Budget",
+        "BUDGET_2014_15_TITLE": "BUDGET ESTIMATES FOR THE YEAR-2017-18",
+        "THE_MYSORE_ELECTRICAL_INDUSTRIES_LTD": "THE MYSORE ELECTRICAL INDUSTRIES LTD.,",
+        "M_E_I_LTD": "The M.E.I. Ltd. Bangalore-560 022.",
+        "DATE": "Date:11.05.2017",
+        "PERFORMANCE_HEAEDER": "PERFORMANCE DURING THE YEAR-2016-17.",
+        "PRODUCTION": {
+            "HEADER": "PRODUCTION",
+            "DESCRIPTION": "The Company has achieved a production turnover of Rs.4064.81 lakhs in terms of Sale value, against the target of Rs.6500.00 lakhs, accounting for 62.54% of the target set."
+        },
+        "SALES": {
+            "HEADER": "SALES",
+            "DESCRIPTION": "The Company has achieved a Sales turnover of Rs.4083.78 lakhs, against the target of Rs.6500.00 lakhs, accounting for 62.83% of the target set. The Company could not achieve Targeted Production and Sales turnover during the year due to Non-Procurement of CT's and PT's as the Supplier had brought a Stay from Honorable High Court of Karnataka. WORKING RESULTS FOR THE YEAR 2016-17: The working results for the year 2016-17 are expected to end up with a Profit of Rs.30.12 lakhs. And the accumulated loss at the year-end would be Rs.35.59 lakhs."
+        },
+        "FINANCIAL_POSITION": {
+            "HEADER": "FINANCIAL POSITION OF THE COMPANY",
+            "DESCRIPTION": "The working capital management and financial position of the company during the year is satisfactory and the company is regular in paying all the statutory dues."
+        },
+        "ORDER_BOOK_POSITION": {
+            "HEADER": "ORDER BOOK POSITION",
+            "DESCRIPTION": "During the year 2016-17 the company has received the orders worth Rs.6630.26 lakhs and executed orders worth Rs.4083.78 lakhs. The order book position as at 1 st April 2016 was Rs.3006.50 lakhs and the estimated value of orders as on 1st APRIL 2017 is Rs.5552.98 lakhs as detailed in ANNEXURE-1. The company is putting in serious efforts to mobilize the orders required for plant load during the next financial year."
+        },
+        "TARGET": {
+            "HEADER": "PRODUCTION AND SALES TARGET FOR 2017-18",
+            "DESCRIPTION": "The Production and Sales targets for the year 2017-18 are fixed at Rs.6200 lakhs each respectively. The details of Production and Sales targets are indicated in ANNEXURE-2,3 & 4."
+        },
+        "MATERIAL_COST": {
+            "HEADER": "MATERIAL COST",
+            "DESCRIPTION": "The estimated Material Cost to production during the year 2016-17 works out to be around 68%. The budgeted material cost to production for the year 2017-18 is expected to be around 70%. The details of Product wise and category wise material cost are given in ANNEX.- 5 & 6."
+        },
+        "PERSONNEL_COST": {
+            "HEADER": "PERSONNEL COST",
+            "DESCRIPTION1": "The total  strength of the Employees as on 1-4-2017 is as under :-",
+            "DESCRIPTION2": "The personnel Cost for the year  2016-17 is estimated at Rs.1072.90 lakhs.The total budgeted personnel cost for the year 2017-18 is expected to be at Rs.1121.00 lakhs. The details of Personnel cost are given in ANNEXURE-7 & 8.",
+            "WORKMEN_KEY": " Workmen",
+            "WORKMEN_VALUE": "73",
+            "STAFF_KEY": "Staff",
+            "STAFF_VALUE": "27",
+            "SUPERINTENDENTS_KEY": "Superintendents",
+            "SUPERINTENDENTS_VALUE": "8",
+            "OFFICERS_KEY": "Officers",
+            "OFFICERS_VALUE": "23",
+            "TOTAL_PERMANENT_EMPLOYEES_KEY": "Total no of permanent employees",
+            "TOTAL_PERMANENT_EMPLOYEES_VALUE": "123",
+            "CASUAL_LABORERS_KEY": "Casual laborers",
+            "CASUAL_LABORERS_VALUE": "124",
+            "APPRENTICES/TRAINEES_VALUE": "92",
+            "APPRENTICES/TRAINEES_KEY": "Apprentices/Trainees",
+            "TOTAL_KEY": "Total number of employees",
+            "TOTAL_VALUE": "339"
+
+        },
+        "VALUE_ADDITION": {
+            "HEADER": "VALUE ADDITION",
+            "DESCRIPTION": "The value addition per employee is expected to be at Rs.7.75 lakhs per annum as against the personnel cost of Rs.3.31 lakhs per annum per employee.The details are furnished in ANNEXURE-9."
+        },
+        "PROFIT_AND_LOSS": {
+            "HEADER": "PROFIT AND LOSS ACCOUNT",
+            "DESCRIPTION": "The Gross income for the year 2017-18 is budgeted at  Rs.6600.00 lakhs against which an expenditure of Rs.6121.78 lakhs is anticipated. The working results for the year 2017-18 on the above level of turnover is expected to end up with a profit of Rs.478.22 lakhs and accumulated loss being wiped off. The detailed Profit and Loss account together with the schedule of expenses are given in ANNEXURE-12,12A and 12B."
+        },
+        "BUDGET_BALANCE_SHEET": {
+            "HEADER": "BUDGETED BALANCE SHEET",
+            "DESCRIPTION": "The Financial  Position of the Company as per the Budgeted operations is given in the Balance Sheet vide ANNEXURE-11 and 11A."
+        },
+        "FUND_FLOW_STATEMENT": {
+            "HEADER": "FUND FLOW STATEMENT",
+            "DESCRIPTION": "The budgeted fund flow statement is furnished in ANNEXURE-13."
+        },
+        "BREAK_EVEN_SALES": {
+            "HEADER": "BREAK EVEN SALES FOR THE YEAR 2017-18",
+            "DESCRIPTION": "The break even sales for the  year 2017-18 is estimated at Rs.5120.97 lakhs.  A detailed calculation is furnished in  ANNEXURE-13."
+        }
+    },
+    "PCVCB": {
+        "HEADER": "PORCELAIN CLAD VCB (PCVCB)",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "PB5/25/12",
+        "RATING_KEY": "Rating:",
+        "RATING_VALUE": "11KV,Upto 1250A,50Hz up to 25KA",
+        "INSTALLATION_KEY": "Installation:",
+        "INSTALLATION_VALUE": "Outdoor"
+    },
+    "MCVCBO": {
+        "HEADER": "METAL CLAD VCB (MCVCB)",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "VB5/25/12, VB5/31.5/20",
+        "RATING_KEY": "Rating:",
+        "RATING_VALUE": "11KV,1250A, 50Hz, 20KA,",
+        "RATING_VALUE1": ": 11KV,1600A, 50Hz, 25KA,",
+        "RATING_VALUE2": ": 11KV,2000A, 50Hz, 31.5KA",
+        "INSTALLATION_KEY": "Installation:",
+        "INSTALLATION_VALUE": "Outdoor"
+    },
+    "MCVCBI": {
+        "HEADER": "METAL CLAD VCB (MCVCB))",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "VB5/25/12",
+        "RATING_KEY": "Rating:",
+        "RATING_VALUE": "11KV, 800A to1600A,20/25KA,50Hz",
+        "INSTALLATION_KEY": "Installation:",
+        "INSTALLATION_VALUE": "Indoor"
+    },
+    "VCRMU": {
+        "HEADER": "VERY COMPACT RMU (VCRMU)",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "VB5/20/08",
+        "TYPE_VALUE1": ": 2 I/C LBS +1 O/G VCB",
+        "TYPE_VALUE2": ": 2 I/C VCB +1 O/G VCB",
+        "RATING_KEY": "Rating:",
+        "RATING_VALUE": "11KV 800A,20KA,50Hz",
+        "INSTALLATION_KEY": "Installation:",
+        "INSTALLATION_VALUE": "Outdoor"
+    },
+    "CSSS": {
+        "HEADER": "COMPACT SECONDARY SUB-STATION",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "CSS 990V",
+        "RATING_KEY": "Rating:",
+        "RATING_VALUE": "990KVA",
+        "INSTALLATION_KEY": "Installation:",
+        "INSTALLATION_VALUE": "Outdoor"
+    },
+    "CRMUSF6": {
+        "HEADER": "COMPACT RMU WITH SF6 LBS & VCB",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "VCRMU VB5/20/08",
+        "RATING_KEY": "Rating:",
+        "RATING_VALUE": "Upto 800A,20KA",
+        "INSTALLATION_KEY": "Installation:",
+        "INSTALLATION_VALUE": "Outdoor"
+    },
+    "VR5I": {
+        "HEADER": "VR 5 Indoor Panel",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "11KV/VR 5/20/08"
+    },
+    "VR5O": {
+        "HEADER": "VR 5 Outdoor Panel (RMU)",
+        "TYPE_KEY": "Type:",
+        "TYPE_VALUE": "11KV/VR 5/20/08"
+    },
+    "RETROFITTING": {
+        "HEADER": "RETROFITTING",
+        "TITLE": "Retrofitting",
+        "DESCRIPTION": "MEI is expert in retrofitting the other make metal & porcelain clad vacuum circuit breaker due to flexible design and long life mechanism. MEI has Retrofitted the below make.",
+        "SIEMENS": "M/s. Siemens.",
+        "CROMPTON_GREAVES": "M/s. Crompton Greaves Ltd.,",
+        "AREVA": "M/s. Areva.",
+        "STOMBERG": "M/s. Stomberg Germany.",
+        "ABB": "M/s. ABB Ltd.",
+        "VOLTAS": "M/s. Voltas Ltd.",
+        "ER": "M/s. ER.",
+        "BHEL": "M/s. BHEL.",
+        "POWER_GEAR": "M/s. Power Gear.",
+        "MEGHAWIN": "M/s. Meghawin.",
+        "VIJAYA": "M/s. Vijaya Electricals.",
+        "VICTORY": "M/s. Victory.",
+        "VENSON": "M/s. Venson."
+    },
+    "CERTIFICATES": {
+        "HEADER": "CERTIFICATES",
+        "TITLE": "Certificates",
+        "ISO": "ISO Certification",
+        "PERFORMANCE": "Certificate of Performance",
+        "DESCRIPTION1": "MEI is Known for its Quality and Rugged Design, the MEI products are well accepted in India as well as outside the country. Our products are installed in Australia, Singapore, Kenya, Kuwait, Ceylon, Burma, Bharain, Bangladesh, Sudan, UAE, Cyprus and many other countries.",
+        "DESCRIPTION2": "The customers list extends to Karnatak Energy Departments like KPTCL, ESCOM’s. Pvt parties like Five star hotels, Cement and paper mills, multistorage and Residential Complex and OEM’s like Kirloskar pneumatics, Ingersoll Rand and Voltas, Water supply boards and Agriculture Sector. The customer base has spread to all over the globe and both Urban and Rural parts of our country."
+    },
+    "SHORT_CIRCUIT_PERFORMANCE": {
+        "HEADER": "SHORT CIRCUIT PERFORMANCE",
+        "TITLE": "Short Circuit Performance"
+    },
+    "RESEARCH": {
+        "HEADER": "RESEARCH AND DEVELOPMENT",
+        "TITLE": "Research and Development",
+        "SUB_HEADER1": {
+            "HEADER": "Applied research is given emphasis in the R & D division of MEI, which has more relevance to the company. The work of the R & D is MEI may be classified broadly into the following groups.",
+            "DESCRIPTION1": "Indigenous design & development of products utilizing the available technologies & making maximum utilization of available materials within the country.",
+            "DESCRIPTION2": "Design modifications of the products made under overseas as collaboration if customer’s needs and requirements both within & outside the country.",
+            "DESCRIPTION3": "Design modifications of products in keeping with the developments of newer materials within the country and also with a view to reduce costs.",
+            "DESCRIPTION4": "Import substitution of materials & components.",
+            "DESCRIPTION5": "Peripheral work connected with products developed.",
+            "DESCRIPTION6": "Indigenous design & development of products utilizing the available technologies and making maximum utilization of available materials in the country."
+        },
+        "SUB_HEADER2": {
+            "HEADER": "Following are the products which have been designed within MEI and which are manufactured and marketed.",
+            "DESCRIPTION1": "Low voltage air break star delta starter Type MSDD/NT.",
+            "DESCRIPTION2": "Low voltage oil immersed slip ring motor starter Type OSR.",
+            "DESCRIPTION3": "Low voltage oil immersed star delta starter Type NSD.",
+            "DESCRIPTION4": "Low voltage oil immersed auto transformer starter Type ATS.",
+            "DESCRIPTION5": "Low voltage air break heavy duty amperage contactors Type MCA 9 & MCA 11.",
+            "DESCRIPTION6": "Liquid rheostat type starters / controllers Type MLS.",
+            "DESCRIPTION7": "Low voltage DC shorting switches of 17000 Amps Type MIO16.",
+            "DESCRIPTION8": "3.3KV Air break contractor Type MHCA.",
+            "DESCRIPTION9": "6.6KV / 11KV Outdoor kiosks.",
+            "DESCRIPTION10": "Flame proof starters / controllers.",
+            "DESCRIPTION11": "High current DC shorting switches for use in caustic soda plants."
+        },
+        "SUB_HEADER3": {
+            "HEADER": "The Following products have been taken up for development manufacture.",
+            "DESCRIPTION1": "11KV,20KA very compact RMU with draw out VCB’S successfully designed. The proto type shortly being customized with metering facility.",
+            "DESCRIPTION2": "1.11KV,20KA very compact RMU with load break switches for Ring units and VCB for TEE-OFF unit with metering facility.",
+            "DESCRIPTION3": "Automatic circuit reclosure for 11KV rural distribution network.",
+            "DESCRIPTION4": "Design and Development of 11KV,31.5 KA Vacuum Circuit Breaker.",
+            "DESCRIPTION5": "Design and Development of 33KV,750 MVA porcelain clad Vacuum Circuit Breaker.",
+            "DESCRIPTION6": "Successfully Retrofitted 11 KV VCB Panels, SF6 panels, MOCB panels of various makes like ABB,SIEMENS,CGI,BHEL,ALSTOM, KIRLOSKAR,VOLTAS,STROMERG,ECE other than MEI make MOCB and BOCB.",
+            "ENDING": "R & D in MEI is keeping abreast with the latest technological developments both within the country and abroad. Its staff is actively participating in National seminars, Lectures, etc., and they have attended a number of conferences and symposiums. They have presented papers and have activity participated in the deliberations. MEI was a member of E R A and is also a member of the Indian Standards Institution. The R & D Unit has a separate Library and contributes to a number of journals and periodicals both from within the country and overseas. It is also enlisting the assistance of the Indian Institute of Science, CPRI., etc., for the design and testing of the products."
+        }
+    },
+    "TESTING_FACILITIES": {
+        "TITLE": "Testing Facilities",
+        "HEADER": "TESTING FACILITIES",
+        "SUB_HEADER": "The Mysore Electrical Industries Limited",
+        "DESCRIPTION1": "Has the relevant testing instruments for carrying out various Quality Control functions required at different stages of manufacturing Enclosed are the details regarding Electrical Testing facilities and Mechanical Testing facilities available with us.",
+        "DESCRIPTION2": "All our Quality Control process / procedures have been streamlined and accepted by approved Inspection agents like M/s. CROWN AGENTS & M/s. S G S. Further this has been accepted by independent Government Testing agencies viz., EXPORT INSPECTION AGENCY & INDIAN STATICAL INSTITUTE. As a proof of this certificates issued by the above said authorities shall be furnished on request.",
+        "DESCRIPTION3": "All the instruments like meters etc., used for manufacturing & Q.C. process are being calibrated periodically (once in a year) by an independent testing & certification agency M/s. CPRI. & EIDC., Bangalore, Mechanical Gauges (standard) are calibrated in house."
+    },
+    "ROUTINE_TESTS": {
+        "HEADER": "ROUTINE TESTS",
+        "TITLE": "Routine Tests",
+        "TESTS_CONDUCTED": "Tests Conducted:-",
+        "SUB_HEADER1": {
+            "HEADER": "Minimum Oil Circuit Breaker : Type T 52 / 2E & GUD",
+            "STANDARDS": "Standards followed:- IS 13118, IEC 56, IEC 694 & BS 116.",
+            "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+            "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+            "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+            "DESCRIPTION4": "Mechanical operation test."
+        },
+        "SUB_HEADER2": {
+            "HEADER": "Oil Fuse Switches : Type VLE, VLEA & VLX",
+            "STANDARDS": "Standards followed:- IS 9920, IEC 420, IEC 265, IEC 285 & BS 3078.",
+            "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+            "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+            "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+            "DESCRIPTION4": "Mechanical operation test."
+        },
+        "SUB_HEADER3": {
+            "HEADER": "Oil Fuse Switches & Isolators : Type OD & ODA",
+            "STANDARDS": "Standards followed:- IS 9921, IEC 265, IEC 285 & BS 116.",
+            "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+            "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+            "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+            "DESCRIPTION4": "Mechanical operation test."
+        },
+        "SUB_HEADER4": {
+            "HEADER": "Vacuum Circuit Breakers : Type VB5-25/12 & VR5-20/08",
+            "STANDARDS": "Standards followed:- IS 13118, IEC 56, IEC 694 & BS 116.",
+            "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+            "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+            "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+            "DESCRIPTION4": "Mechanical operation test.",
+            "DESCRIPTION5": "Tests for contact speed & contact bounce."
+        },
+        "SUB_HEADER5": {
+            "HEADER": "Porcelain Clad Vacuum Circuit Breakers : Type PB5-25/12",
+            "STANDARDS": "Standards followed:- IS 13118, IEC 56, IEC 694 & BS 116.",
+            "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+            "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+            "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+            "DESCRIPTION4": "Mechanical operation test.",
+            "DESCRIPTION5": "Tests for contact speed & contact bounce."
+        },
+        "SUB_HEADER6": {
+            "HEADER": "Current Transformers",
+            "STANDARDS": "Standards followed:- IS 2705, IEC 185 & BS 3938.",
+            "DESCRIPTION1": "Verification of terminal markings and polarity.",
+            "DESCRIPTION2": "High voltage power frequency tests on primary winding.",
+            "DESCRIPTION3": "High voltage power frequency tests on secondary windings.",
+            "DESCRIPTION4": "Over voltage inter-turn test.",
+            "DESCRIPTION5": "Determination of error according to the requirements of appropriate accuracy class."
+        },
+        "SUB_HEADER7": {
+            "HEADER": "Potential Transformers",
+            "STANDARDS": "Standards followed:- IS 3156, IEC 186 & BS 3941.",
+            "DESCRIPTION1": "Verification of terminal markings and polarity.",
+            "DESCRIPTION2": "High voltage power frequency tests on primary winding.",
+            "DESCRIPTION3": "High voltage power frequency tests on secondary windings.",
+            "DESCRIPTION4": "Over voltage inter-turn test.",
+            "DESCRIPTION5": "Determination of error according to the requirements of appropriate accuracy class."
+        }
+    },
+    "CONTACT": {
+        "HEADER": "Contact Us",
+        "ADDRESS_KEY": "Address",
+        "ADDRESS_VALUE": "THE MYSORE ELECTRICAL INDUSTRIES LTD., (Government of Karnataka Undertaking) P.B. No. 2221, Tumkur Road, Yeshwanthpur, Bangalore-560 022, KARNATAKA, INDIA.",
+        "ISO": "ISO 9001-2008 Certified Company.",
+        "PHONE_KEY": "Phone:",
+        "PHONE_VALUE": "+91 80 – 23376851 (6 Lines), +91 80 – 23376641 (4 Lines)",
+        "MARKETING_KEY": "Marketing:",
+        "MARKETING_VALUE": "+91 80-23370140(DGM), +91 80-23372697(HT), +91 080 23371811",
+        "SPARES_KEY": "Spares HT & LT Servicing:",
+        "SPARES_VALUE": "+91 80 23471008",
+        "FAX_KEY": "Fax",
+        "FAX_VALUE": "+91 80 23371811",
+        "EMAIL_KEY": "Email",
+        "EMAIL_VALUE": "mei1md@rediffmail.com , meimatls9@gmail.com , meimktg@rediffmail.com"
+    },
+    "ALL_DEALERS": {
+        "HEADER": "ALL DEALERS",
+        "TITLE": "All Dealers",
+        "ADDRESS": "Address:",
+        "PHONE": "Phone:",
+        "FAX": "Fax:",
+        "EMAIL": "Email:",
+        "INDIA": {
+            "TITLE": "Throughout India",
+            "COMPANY": "C&M SWITCHGEAR ENTERPRISES PVT LTD.",
+            "ADDRESS": "C&M SWITCHGEAR ENTERPRISES PVT LTD., 82/3, 1ST MAIN ROAD, OPP.RAHEJA APARTMENTS ROAD, GOVINDRAJANAGAR, BANGALORE – 560 040",
+            "PHONE": "2338219",
+            "FAX": "080-23401982",
+            "EMAIL": "cmsepl@gmail.com"
+        },
+        "KARNATAKA": {
+            "TITLE": "Karnataka",
+            "COMPANY": "CANARA ELECTRICALS & ENTERPRISES",
+            "ADDRESS": "CANARA ELECTRICALS& ENTERPRISES NO:16,(OLD NO:685),10TH ‘E’ MAIN ROAD,4TH BLOCK JAYANAGAR,BANGALORE KARNATAKA- 560 011",
+            "PHONE": "080-26592285",
+            "FAX": "0141 – 367551",
+            "EMAIL": "canara_electrical@yahoo.co.in"
+        },
+        "ANDHRA_PRADESH": {
+            "TITLE": "Andhra Pradesh",
+            "COMPANY": "JAYALAKSHMI ENTERPRISES",
+            "ADDRESS": "JAYALAKSHMI ENTERPRISES 331, 3RD FLOOR, ALKARIM TRADE CENTRE, RANIGUNJ, SECUNDERBAD – 500 003",
+            "PHONE": "040-7540249",
+            "FAX": "040-7540249",
+            "EMAIL": "tnnagaraj@yahoo.com"
+        },
+        "DELHI": {
+            "TITLE": "Delhi",
+            "COMPANY": "HI-TECH SYSTEMS PVT LTD.",
+            "ADDRESS": "HI-TECH SYSTEMS PRIVATE LIMITED NO:46,RPS,SHEIKH SARAI,PHASE-1, NEW DELHI–110017",
+            "PHONE": "564701, 624701",
+            "FAX": "011-3285848",
+            "EMAIL": "hitechsy@rediffmail.com"
+        },
+        "TAMIL_NADU": {
+            "TITLE": "Tamil Nadu & Pondichery",
+            "COMPANY": "ASIAS ELECTRICALS",
+            "ADDRESS": "ASIAS ELECTRICALS NO.6, GANDHI STREET, VANUVAMPET, MADIPAKKAM CHENNAI – 600 091",
+            "PHONE": "044 – 22600557, 22602633",
+            "FAX": "044 – 22600557",
+            "EMAIL": "asiaselec@yahoo.com"
+        },
+        "WEST_BENGAL": {
+            "TITLE": "West Bengal",
+            "COMPANY": "MOTORS & CONTROLS",
+            "ADDRESS": "MOTORS & CONTROLS No.55, EZRA STREET, KOLKATA – 700 001",
+            "PHONE": "033-22353609, 22152931",
+            "FAX": "033-22356300",
+            "EMAIL": "info@motorscontrols.com"
+        },
+        "GUJARAT": {
+            "TITLE": "Gujarat,Madhya Pradesh & Maharastra",
+            "COMPANY": "THE MARSDEN BAKUBHAI & SONS PVT LTD.",
+            "ADDRESS": "THE MARSDEN BAKUBHAI & SONS P.LTD., “DARSHAN” NEAR PARIMAL RLY.CROSSING PALDI, AHMEDABAD – 380 007",
+            "PHONE": "079-26645356,26651437",
+            "FAX": "079-26651437",
+            "EMAIL": "mbsons@icenet.net"
+        },
+        "ODISA": {
+            "TITLE": "Odisa",
+            "COMPANY": "SYSTEM HOUSE CORPORATION",
+            "ADDRESS": " SYSTEM HOUSE CORPORATION K-MANSION,BLOCK K-3,340,GOUTAM NAGAR,BHUBANESHWAR ODISHA- 751 014",
+            "PHONE": "0674-2436015,2435160",
+            "FAX": "0674-2436010",
+            "EMAIL": "systemhouseorissa@yahoo.com"
+        },
+        "GOA": {
+            "TITLE": "Goa",
+            "COMPANY": "SHIRWAIKARS ELECTRICAL ENTERPRISES",
+            "ADDRESS": "SHIRWAIKARS ELECTRICAL ENTERPRISES Dr.ATMARAM BORKAR ROAD,Near Rajdhani hotel-403 001 PANJIM-GOA",
+            "PHONE": "2224292, 2458685",
+            "FAX": "0832-2224560",
+            "EMAIL": "shirwaikr@sancharnet.in"
+        }
+    },
+    "STATE_GOVT": {
+        "HEADER": "STATE GOVERNMENT DEPARTMENT",
+        "TITLE": "State Government Department",
+        "DEPT1": "Energy Department.",
+        "DEPT2": "Karnataka Power Transmission Corporation Limited (KPTCL)",
+        "DEPT3": "Bangalore Electricity Supply Company Limited (BESCOM)",
+        "DEPT4": "Chamundeshwari Electricity Supply Corporation (CESC)",
+        "DEPT5": "Gulbarga Electricity Supply Company Ltd. (GESCOM)",
+        "DEPT6": "Hubli Electricity Supply Company Ltd. ( HESCOM)",
+        "DEPT7": "Mangaluru Electricity Supply Company Ltd. ( MESCOM)",
+        "DEPT8": "Karnataka State Road Transport Corporation (KSRTC)",
+        "DEPT9": "Karnataka Industrial Area Development Board (KIADB)",
+        "DEPT10": "Karnataka Urban Water Supply Sewerage Board (KUWSSB)",
+        "DEPT11": "Bangalore Development Authority (BDA)"
+    },
+    "CENTRAL_GOVT": {
+        "HEADER": "CENTRAL GOVERNMENT DEPARTMENT",
+        "TITLE": "Central Government Department",
+        "DEPT1": "Department of Irrigation.",
+        "DEPT2": "Central Public Works Department.",
+        "DEPT3": "Delhi Jal Board."
+    },
+    "SCIENTIFIC_ESTABLISHMENTS": {
+        "HEADER": "SCIENTIFIC AND RESEARCH ESTABLISHMENTS",
+        "TITLE": "Scientific and Research Establishments",
+        "DEPT1": "ISRO",
+        "DEPT2": "NTPC",
+        "DEPT3": "BABARC",
+        "DEPT4": "IIT"
+    },
+    "SPARES_FOR_VB5": {
+        "HEADER": "SPARES_FOR_VB5",
+        "TITLE": "SPARES FOR VB5, VR5 & PB5",
+        "100-24508": {
+            "id": "100-24508",
+            "name": "LIMIT SWITCH 2NO+1NC"
+        },
+        "100-63534": {
+            "id": "100-63534",
+            "name": "CHAIN ASSEMBLY"
+        },
+        "100-63538": {
+            "id": "100-63538",
+            "name": "DAMPER ASSEMBLY"
+        },
+        "100-63594": {
+            "id": "100-63594",
+            "name": "CLOSING COIL WITH BRACKET"
+        },
+        "100-63595": {
+            "id": "100-63595",
+            "name": "TRIPPING COIL WITH BRACKET"
+        },
+        "100-63626": {
+            "id": "100-63626",
+            "name": "DETENT CATCH"
+        },
+        "100-63636": {
+            "id": "100-63636",
+            "name": "TRIPPING CATCH ASSEMBLY"
+        },
+        "100-63637": {
+            "id": "100-63637",
+            "name": "GEAR WHEEL ASSEMBLY"
+        },
+        "100-63638": {
+            "id": "100-63638",
+            "name": "MOTOR LIMIT SWITCH LEVER"
+        },
+        "100-63639": {
+            "id": "100-63639",
+            "name": "CLOSING LEVER"
+        },
+        "100-63640": {
+            "id": "100-63640",
+            "name": "CLUTCH SOCKET ASSEMBLY"
+        },
+        "100-63641": {
+            "id": "100-63641",
+            "name": "CRANK SHAFT ASSEMBLY"
+        },
+        "100-63651": {
+            "id": "100-63651",
+            "name": "CHARGING SHAFT ASSEMBLY"
+        },
+        "100-63672": {
+            "id": "100-63672",
+            "name": "BEARING BLOCK ASSEMBLY"
+        },
+        "100-63729 + 201-63556": {
+            "id": "100-63729 + 201-63556",
+            "name": "SPRING CHARGING MOTOR WITH RAG WHEEL"
+        },
+        "100-63820": {
+            "id": "100-63820",
+            "name": "STUD, RODEND FOR CONNECTING ROD"
+        },
+        "100-63821": {
+            "id": "100-63821",
+            "name": "STUD, ROD END FOR DAMPER"
+        },
+        "100-63857": {
+            "id": "100-63857",
+            "name": "TRACK ROLLER (NATV6)"
+        },
+        "100-63860": {
+            "id": "100-63860",
+            "name": "LIMIT SWITCH ASSEMBLY"
+        },
+        "100-63897": {
+            "id": "100-63897",
+            "name": "TRIP LEVER ASSEMBLY"
+        },
+        "100-63899": {
+            "id": "100-63899",
+            "name": "TRIP CLOSE KNOB ASSEMBLY"
+        },
+        "100-64144": {
+            "id": "100-64144",
+            "name": "FLEXIBLE CONDUCTOR"
+        },
+        "100-64581": {
+            "id": "100-64581",
+            "name": "FLEXIBLE CONDUCTOR,31.5KA"
+        },
+        "100-64209": {
+            "id": "100-64209",
+            "name": "TRIPPING COIL"
+        },
+        "100-64210": {
+            "id": "100-64210",
+            "name": "CLOSING COIL"
+        },
+        "100-93901": {
+            "id": "100-93901",
+            "name": "RATCHET HANDLE WITH BIT"
+        },
+        "201-63554": {
+            "id": "201-63554",
+            "name": "DOUBLE TEETH RAGWHEEL"
+        },
+        "201-63556": {
+            "id": "201-63556",
+            "name": "SINGLE TEETH RAGWHEEL"
+        },
+        "201-63569": {
+            "id": "201-63569",
+            "name": "MAIN LEVER SPRING"
+        },
+        "201-63571": {
+            "id": "201-63571",
+            "name": "SPRING FOR DETENT CATCH"
+        },
+        "201-63633": {
+            "id": "201-63633",
+            "name": "OPENING SPRING"
+        },
+        "201-63668": {
+            "id": "201-63668",
+            "name": "TRIP LEVER SPRING"
+        },
+        "201-63743": {
+            "id": "201-63743",
+            "name": "STOP"
+        },
+        "202-63955": {
+            "id": "202-63955",
+            "name": "SHIM"
+        },
+        "206-63656": {
+            "id": "206-63656",
+            "name": "TRIP CLOSE KNOB FOR VR5 & VB5"
+        },
+        "100-64192": {
+            "id": "100-64192",
+            "name": "WITHDRAWL HANDLE"
+        },
+        "100-64184": {
+            "id": "100-64184",
+            "name": "VACUUM INTERRUPTER, B-14"
+        },
+        "100-64253": {
+            "id": "100-64253",
+            "name": "VACUUM INTERRUPTER, C-14, 31.5KA, 2000A"
+        },
+        "100-63557": {
+            "id": "100-63557",
+            "name": "PRESSURE SPRING ASSEMBLY"
+        },
+        "100-63666": {
+            "id": "100-63666",
+            "name": "LOCKING LEVER ASSEMBLY"
+        },
+        "100-63670": {
+            "id": "100-63670",
+            "name": "STRIKING GEAR ASSEMBLY"
+        },
+        "100-63789 & 100-64203": {
+            "id": "100-63789 & 100-64203",
+            "name": "SIMPLEX CHAIN & CLEVIS"
+        },
+        "100-63804": {
+            "id": "100-63804",
+            "name": "TRACK ROLLER"
+        },
+        "100-63856": {
+            "id": "100-63856",
+            "name": "TRACK ROLLER STUD TYPE"
+        },
+        "100-63888": {
+            "id": "100-63888",
+            "name": "DRIVE SHAFT ASSEMBLY, 25KA"
+        },
+        "201-63505": {
+            "id": "201-63505",
+            "name": "CAM LEVER"
+        },
+        "201-63506": {
+            "id": "201-63506",
+            "name": "CAM LEVER"
+        },
+        "201-63520": {
+            "id": "201-63520",
+            "name": "TRUNION"
+        },
+        "201-63528": {
+            "id": "201-63528",
+            "name": "STIRRUP SHAFT"
+        },
+        "201-63527": {
+            "id": "201-63527",
+            "name": "AXLE FOR PRESSURE SPRING"
+        },
+        "201-63608": {
+            "id": "201-63608",
+            "name": "TRUNION"
+        },
+        "201-63634": {
+            "id": "201-63634",
+            "name": "TRIPPING COIL BRACKET"
+        },
+        "201-64296": {
+            "id": "201-64296",
+            "name": "MOTOR FIXING PLATE"
+        },
+        "202-64366": {
+            "id": "202-64366",
+            "name": "SHIM, 31.5KA"
+        },
+        "204-63596, 100-64148": {
+            "id": "204-63596, 100-64148",
+            "name": "ALUMINIUM BUSHING WITH PG BUSH"
+        },
+        "204-63597": {
+            "id": "204-63597",
+            "name": "INDICATOR"
+        },
+        "204-64559 & 100-64151": {
+            "id": "204-64559 & 100-64151",
+            "name": "BUSHING WITH BEARING"
+        },
+        "206-63693 & 206-63706": {
+            "id": "206-63693 & 206-63706",
+            "name": "RED INDICATOR WITH STICKER"
+        },
+        "AUXILLARY SWITCHES": {
+            "id": "AUXILLARY SWITCHES",
+            "name": "(SPECIFY NO. OF WAYS)"
+        },
+        "CASTEL INTER LOCK": {
+            "id": "CASTEL INTER LOCK",
+            "name": "(SPECIFY TYPE)"
+        },
+        "201-63572": {
+            "id": "201-63572",
+            "name": "COMPRESSION SPRING"
+        }
+    },
+    "SPARES_FOR_MCVCB_PANELS": {
+        "HEADER": "SPARES_FOR_MCVCB_PANELS",
+        "TITLE": "SPARES FOR MCVCB PANELS",
+        "100-48134": {
+            "id": "100-48134",
+            "name": "WALL ENTRY BUSHING WITH CONTACT, 25KA"
+        },
+        "100-48135": {
+            "id": "100-48135",
+            "name": "WALL ENTRY BUSHING WITH OUT CONTACT, 25KA"
+        },
+        "100-48267": {
+            "id": "100-48267",
+            "name": "WALL ENTRY BUSHING WITH CONTACT, 31.5KA,FEEDER"
+        },
+        "100-48268": {
+            "id": "100-48268",
+            "name": "WALL ENTRY BUSHING WITH OUT CONTACT, 31.5KA, FEEDER"
+        },
+        "100-48244": {
+            "id": "100-48244",
+            "name": "WALL ENTRY BUSHING WITH OUT CONTACT, 31.5KA,INCOMER"
+        },
+        "100-48266": {
+            "id": "100-48266",
+            "name": "WALL ENTRY BUSHING WITH CONTACT 31.5KA"
+        },
+        "204-16704": {
+            "id": "204-16704",
+            "name": "BRASS WHEEL"
+        },
+        "100-48232": {
+            "id": "100-48232",
+            "name": "BUS BAR SUPPORT INSULATOR (EPOXY)"
+        },
+        "TRIP NEUTRAL CLOSE SWITCH": {
+            "id": "TRIP NEUTRAL CLOSE SWITCH",
+            "name": "TRIP NEUTRAL CLOSE SWITCH"
+        },
+        "100-63882": {
+            "id": "100-63882",
+            "name": "INSULATED HOUSING ASSEMBLY"
+        },
+        "100-63886": {
+            "id": "100-63886",
+            "name": "UPPER TERMINAL ASSEMBLY, 31.5KA"
+        },
+        "100-63887": {
+            "id": "100-63887",
+            "name": "LOWER TERMINAL ASSEMBLY, 31.5KA"
+        },
+        "100-64182": {
+            "id": "100-64182",
+            "name": "UPPER TERMINAL ASSEMBLY"
+        },
+        "100-64183": {
+            "id": "100-64183",
+            "name": "LOWER TERMINAL ASSEMBLY"
+        },
+        "100-64175": {
+            "id": "100-64175",
+            "name": "WITHDRAWL SHAFT ASSEMBLY"
+        },
+        "100-64031": {
+            "id": "100-64031",
+            "name": "INSULATED ROD ASSEMBLY"
+        },
+        "201-52042": {
+            "id": "201-52042",
+            "name": "FINGER CONTACT SPRING"
+        },
+        "201-52096": {
+            "id": "201-52096",
+            "name": "SPRING GUIDE"
+        },
+        "202-52093": {
+            "id": "202-52093",
+            "name": "FINGER CONTACT"
+        },
+        "202-64056": {
+            "id": "202-64056",
+            "name": "CONDUCTOR COLLAR, 1250A"
+        },
+        "202-64360": {
+            "id": "202-64360",
+            "name": "CONDUCTOR COLLAR, 31.5KA"
+        },
+        "100-63900": {
+            "id": "100-63900",
+            "name": "AUXILLARY CONNECTING ROD"
+        },
+        "207-48535": {
+            "id": "207-48535",
+            "name": "MOVING SHUTTER"
+        },
+        "207-48536": {
+            "id": "207-48536",
+            "name": "FIXED SHUTTER"
+        },
+        "100-63623": {
+            "id": "100-63623",
+            "name": "COMPLETE MAIN LEVER ASSEMBLY"
+        },
+        "100-63624": {
+            "id": "100-63624",
+            "name": "CAM SHAFT ASSEMBLY"
+        },
+        "100-63669": {
+            "id": "100-63669",
+            "name": "CONNECTING ROD ASSEMBLY"
+        },
+        "CONTROL SWITCH": {
+            "id": "CONTROL SWITCH",
+            "name": "(SPECIFY THE TYPE)"
+        },
+        "HRC FUSE": {
+            "id": "HRC FUSE",
+            "name": "(SPECIFY RATING)"
+        },
+        "IEC LOCK WITH KEY": {
+            "id": "IEC LOCK WITH KEY",
+            "name": "IEC LOCK WITH KEY"
+        },
+        "INDICATING LAMPS": {
+            "id": "INDICATING LAMPS",
+            "name": "(SPECIFY RATING)"
+        },
+        "INDOOR TYPE NON-DRAWOUT PT": {
+            "id": "INDOOR TYPE NON-DRAWOUT PT",
+            "name": "INDOOR TYPE NON-DRAWOUT PT"
+        },
+        "INDOOR TYPE RESIN CAST CT": {
+            "id": "INDOOR TYPE RESIN CAST CT",
+            "name": "INDOOR TYPE RESIN CAST CT"
+        },
+        "PLUG & SOCKET": {
+            "id": "PLUG & SOCKET",
+            "name": "(SPECIFY NO. OF WAYS)"
+        },
+        "TEST TERMINAL BLOCK,3PH,4W": {
+            "id": "TEST TERMINAL BLOCK,3PH,4W",
+            "name": "TEST TERMINAL BLOCK,3PH,4W"
+        }
+    },
+    "SPARES_FOR_PCVCB": {
+        "HEADER": "SPARES_FOR_PCVCB",
+        "TITLE": "SPARES FOR PCVCB",
+        "100-65006": {
+            "id": "100-65006",
+            "name": "INTERMIDIATE MECHANISM (MIDDLE)"
+        },
+        "100-65007": {
+            "id": "100-65007",
+            "name": "INTERMIDIATE MECHANISM (LH & RH)"
+        },
+        "100-65072": {
+            "id": "100-65072",
+            "name": "INSULATOR"
+        },
+        "100-65089": {
+            "id": "100-65089",
+            "name": "CONNECTING ROD ASSEMBLY"
+        },
+        "100-65097": {
+            "id": "100-65097",
+            "name": "TERMINAL CONNECTOR FOR INCOMER"
+        },
+        "100-65098": {
+            "id": "100-65098",
+            "name": "TERMINAL CONNECTOR FOR FEEDER"
+        },
+        "100-65246": {
+            "id": "100-65246",
+            "name": "AUXILLARY SWITCH CONNECTING ROD"
+        },
+        "201-65012": {
+            "id": "201-65012",
+            "name": "BASE PLATE"
+        },
+        "202-64205": {
+            "id": "202-64205",
+            "name": "CONDUCTOR COLLAR (FEEDER)"
+        },
+        "202-65058": {
+            "id": "202-65058",
+            "name": "CONDUCTOR COLLAR,1250A"
+        },
+        "204-65043": {
+            "id": "204-65043",
+            "name": "CAP"
+        },
+        "204-65312": {
+            "id": "204-65312",
+            "name": "UPPER TERMINAL"
+        },
+        "204-65313": {
+            "id": "204-65313",
+            "name": "LOWER TERMINAL"
+        },
+        "206-65048": {
+            "id": "206-65048",
+            "name": "GASKET"
+        },
+        "S- RUBBER SECTION": {
+            "id": "S- RUBBER SECTION",
+            "name": "S- RUBBER SECTION"
+        },
+        "100-29030 & 201-65107": {
+            "id": "100-29030 & 201-65107",
+            "name": "HANDLE WITH HOLDER"
+        },
+        "100-65005": {
+            "id": "100-65005",
+            "name": "POLE ASSEMBLY"
+        },
+        "100-65102": {
+            "id": "100-65102",
+            "name": "FLEXIBLE LAMINATION INCOMER"
+        },
+        "100-65103": {
+            "id": "100-65103",
+            "name": "FLEXIBLE LAMINATION FEEDER"
+        },
+        "100-69165": {
+            "id": "100-69165",
+            "name": "DOOR HANDLE"
+        },
+        "206-65228": {
+            "id": "206-65228",
+            "name": "DOOR GLASS"
+        },
+        "MECHANISM DOOR HANDLE": {
+            "id": "MECHANISM DOOR HANDLE",
+            "name": "MECHANISM DOOR HANDLE"
+        },
+        "OUT-DOOR CYCLOALIPHATIC TYPE CT": {
+            "id": "OUT-DOOR CYCLOALIPHATIC TYPE CT",
+            "name": "OUT-DOOR CYCLOALIPHATIC TYPE CT"
+        },
+        "OUT-DOOR OIL FILLED PT": {
+            "id": "OUT-DOOR OIL FILLED PT",
+            "name": "OUT-DOOR OIL FILLED PT"
+        }
+    },
+    "SPARES_FOR_VCB": {
+        "HEADER": "SPARES_FOR_VCB",
+        "TITLE": "SPARES FOR VCB",
+        "100-00034": {
+            "id": "100-00034",
+            "name": "SHOWER CONTACT ASSEMBLY"
+        },
+        "100-64516": {
+            "id": "100-64516",
+            "name": "SWITCH INSULATOR (RH&LH), VR5"
+        },
+        "100-64517": {
+            "id": "100-64517",
+            "name": "MIDDLE SWITCH INSULATOR"
+        },
+        "100-64515": {
+            "id": "100-64515",
+            "name": "INSULATED HOUSING"
+        },
+        "100-64582": {
+            "id": "100-64582",
+            "name": "MIDDLE STEM"
+        },
+        "100-64588": {
+            "id": "100-64588",
+            "name": "BARRIER ASSEMBLY"
+        },
+        "100-64519": {
+            "id": "100-64519",
+            "name": "SWITCH STEM, (LH & RH)"
+        },
+        "202-64546": {
+            "id": "202-64546",
+            "name": "JUMP -R PHASE"
+        },
+        "100-64032": {
+            "id": "100-64032",
+            "name": "INSULATED ROD ASSEMBLY, VR5"
+        },
+        "OVER LOAD- EARTH LEAKAGE COIL": {
+            "id": "OVER LOAD- EARTH LEAKAGE COIL",
+            "name": "OVER LOAD- EARTH LEAKAGE COIL"
+        },
+        "100-64513": {
+            "id": "100-64513",
+            "name": "MAIN CONNECTING ROD"
+        }
+    },
+    "SPARES_FOR_RMU": {
+        "HEADER": "SPARES_FOR_RMU",
+        "TITLE": "SPARES FOR RMU",
+        "100-04598": {
+            "id": "100-04598",
+            "name": "PLUG CONTACT ASSEMBLY, 800A"
+        },
+        "100-04658": {
+            "id": "100-04658",
+            "name": "REAR SPOUT INSULATOR FOR 800A"
+        },
+        "100-93036": {
+            "id": "100-93036",
+            "name": "EARTH SWITCH ASSEMBLY"
+        },
+        "100-04659": {
+            "id": "100-04659",
+            "name": "FRONT SPOUT INSULATOR FOR 800A"
+        },
+        "100-56099": {
+            "id": "100-56099",
+            "name": "BUS BAR BUSHING"
+        },
+        "100-68844": {
+            "id": "100-68844",
+            "name": "BUS BAR SUPPORT INSULATOR"
+        },
+        "100-93789": {
+            "id": "100-93789",
+            "name": "FINGER CONTACT ASSEMBLY"
+        },
+        "99410109": {
+            "id": "99410109",
+            "name": "BRASS HEXAGONAL NUT(THIN)"
+        },
+        "99440405": {
+            "id": "99440405",
+            "name": "BRASS HEXAGONAL NUT(THICK)"
+        }
+    },
+    "SPARES_FOR_SF6": {
+        "HEADER": "SPARES_FOR_SF6",
+        "TITLE": "SPARES FOR SF6",
+        "100-94126": {
+            "id": "100-94126",
+            "name": "UPPER TERMINAL"
+        },
+        "100-94127": {
+            "id": "100-94127",
+            "name": "LOWER TERMINAL"
+        },
+        "100-94136": {
+            "id": "100-94136",
+            "name": "OVER LOAD & EARTH LEAKAGE COIL"
+        }
+    },
+    "RIA": {
+        "TITLE": "Right to Information Act 2005",
+        "DESCRIPTION1": "Manual on the business activities of the Company as required under The provisions of Right To Information Act 2005 and directions of the Government of Karnataka vide letter No; CI 108 CMI 2005, Bangalore, dated 24.09.2005.",
+        "DESCRIPTION2": "i) THE PARTLCULARS OF THE ORGANISTION, FUNCTIONS AND DUTIES;",
+        "ABOUT": {
+            "TITLE": "1. About the Organisation : THE MYSORE ELECTRICAL INDUSTRIED LTD",
+            "DESCRIPTION1": "(A GOVERNMENT OF KARNATAKA UNDERTAKING)",
+            "ADDRESS": "REGD OFFICE :P.B. NO. 2221 TUMKUR ROAD YESHWANTPUR, BANGALORE –560022",
+            "PHONE": "Ph: 080-23376851 (6 LINES), 080-23376641 (3 LINES),",
+            "FAX": "Fax : 080-23371811",
+            "EMAIL": "Email : meimktg@rediffmail.com , Mallikarjunach_hr@yahoo.com",
+            "WEBSITE": "Website : www.meiswitchgears.org"
+        },
+        "FUNCTION": {
+            "TITLE": "2.Function",
+            "DESCRIPTION": "Manufacture and sale and service of switch Gears and Motor Organisation Control Gears"
+        },
+        "DUTIES1": {
+            "TITLE": "3. Duties",
+            "DESCRIPTION1": "The Company incorporated under the companies Act 1956 is a Government of Karnataka Undertaking The company is duty bound to serve the society by manufacture, supply and service of switch Gears and Motor Control Gears to the state Electric city Board, public and private organisations at a comptetive rate with continuous growth and profit to the share holders.",
+            "DESCRIPTION2": "ii) THE POWERS AND DUTIES OF ITS OFFICERS AND EMPLOYEES:"
+        },
+        "POWERS": {
+            "TITLE": "1. Powers",
+            "DESCRIPTION": "As laid down in various OGCS Circulars Office order and delegation of powers in the Organisatioanal hierarchy."
+        },
+        "DUTIES2": {
+            "TITLE": "2. Duties",
+            "DESCRIPTION": "As per the work allotment to the individual office and Employees."
+        }
+    },
+    "RIA1": {
+        "TITLE": "RTIA-41(b)",
+        "HEADER": "Notice",
+        "DESCRIPTION": "The Manual as required under The Right to Information Act, 2005 under Section 4(b) of the Act is published with modifications / Amendments for the information of the Public and the same is appended below."
+    },
+    "RIA2": {
+        "TITLE": "RTIA2",
+        "DESCRIPTION1": "PROCEDURES FOLLOWED IN THE DECISION MAKING PROCESS INCLUDING CHANNELS OF SUPER VISION AND ACCOUNTABLLITY",
+        "DESCRIPTION2": "The Activities of the company has been clearly bifurcated into various divisions. The duties and responsibilities of each divisions are appended below",
+        "MARKETING": {
+            "TITLE": "a. Marketing Division",
+            "DESCRIPTION1": "The division is headed by Sri Thimmanna, MANAGER, I/c who  is functional head of Marketing Division.",
+            "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+            "A": "aa    : The appointment of dealers.",
+            "B": "ab    : Submission of quotations to the customers in consultation with the pricing committee and the managing Director /Chairman & Managing Director wherever necessary.",
+            "C": "ac    : Acceptance of the order received from the customers.",
+            "D": "ad    : Preparation and publishing of price list for standard products and spares, in consultation with the pricing Committee and the managing Director / Chairman and Manager",
+            "E": "ae    : Supply of products within the scheduled time of delivery in consultation and continuous contact with the planning, production, Quality Assurance and other divisions.",
+            "F": "af     : Inviting customers for customers inspection wherever necessary.",
+            "G": "ag    : Invoicing and dispatch.",
+            "H": "ah    : Preparation of monthly,quarterly and annual production and dispatch targets in consultation with other Divisions.",
+            "I": "ai     : Correspondence with the customers,collection of funds receivable from the customers, in consultation with Accounts.",
+            "J": "aj     : Attention to customer’s complaints and necessary action to minimize customer complaints.",
+            "K": "ak    : Undertaking servicing at the request /complaint of the customers both free & payable.",
+            "L": "al     : Continuous contacts with the customers, dealers contractors etc and holding periodical dealers/ customers conference in various cities across the county.",
+            "M": "am   : Any other related work."
+        }
+    },
+    "RIA3": {
+        "TITLE": "RTIA3",
+        "HEADER": "b. Materials Division",
+        "DESCRIPTION1": "The materials Division is Headed by Sri.BALACHANDRA, DEPUTY GENERAL MANAGER (MATARIALS)I/C, ",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+        "A": "ba    : The Department is responsible for the procurement of quality raw materials and bought out items to the specification of required quantity as per the production programme drawn and on the basis of quarterly/bi- monthly /monthly programmer from the cheapest source observing the KTTP ACT for procurement in a more transparent manner keeping in view the inventory carrying cost and production losses due to lack of Materials in time.",
+        "B": "bb    : Planning of Materials based on the quarterly / bi- monthly production programme.",
+        "C": "bc    : Entering into annual contracts with the suppliers by publishing tender notification for the supply of Materials like copper, wood and other value materials.",
+        "D": "bd    : Releasing tender notification/ Floating enquiries ,comparison of rate received, purchase proposal internal audit, placing it before purchase Committee of / and MD / CMD wherever necessary depending upon the value of the order.",
+        "E": "be    : Placing Purchase Orders.",
+        "F": "bf     : Follow up with the suppliers.",
+        "G": "bg    : Receipts, storage of inspected goods and issue of materials to users departments Maintenance of register of inwards goods and stock register. Maintenance of rejection",
+        "H": "bh    : Registration of Vendors and Maintenance of the list of approved vendors.",
+        "I": "bi     : Communication of acceptance or otherwise of the materials supplied to the Company , to the supplier.",
+        "J": "bj     : Collection of materials from Customers/ Transporters Godown.",
+        "K": "bk    : Verification of customers invoice and forwarding the same along with the copy of the inspection report to Finance Dept for payment as per the terms of the purchase order.",
+        "L": "bl     : Disposal of Scrap generated during the production activities.",
+        "M": "bm     : Issue of materials on labour basis and maintenance of material ledger.",
+        "N": "bo     : Identification of non-moving materials, action for usage or disposal of the surplus non-moving stock.",
+        "O": "bp     : Storing accepted materials in pre- determined location with clear identification and maintenance of stock register.",
+        "P": "bq     : Preparation and circulation among user departments the summary of daily receipts of materials.",
+        "Q": "br     : To take all steps to see that the production is not affected on account of non- availability of untimely receipt of materials."
+    },
+    "RIA4": {
+        "TITLE": "RTIA4",
+        "HEADER": "c. Finance and Account Department",
+        "DESCRIPTION1": "The Finance Division is Headed by Sri.N. Sriramprasad, Deputy Manager I/c  (Finance and Account).",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+        "A": "ca    : Evaluation of Costs of products, Components and Services.",
+        "B": "cb    : Maintenance of Materials Stock Ledger.",
+        "C": "cc    : Maintenance of the records of Machinery equipments and other moveable property of the company.",
+        "D": "cd    : Evaluation of the value of work in progress.",
+        "E": "ce    : Conduct of Annual Inventory and evaluation of the value of the work in progress for the purpose of taking the same to books of accounts of the subsequent financial year.",
+        "F": "cf     : Preparation of budget and placing it before the Board.",
+        "G": "cg    : Updation of rates of materials in the Market.",
+        "H": "ch    : Support for the preparation of price list by giving cost of products and spares.",
+        "I": "ci     : Evaluation of Material overheads, Administrative overheads, production overheads, Financial overheads and selling and distributing overheads.",
+        "J": "cj     : Control on the expenditure as to whether such expenditure is well within the approved budget.",
+        "K": "ck    : Maintenance of the list of finished goods inventory.",
+        "L": "cl     : Receipt of cheques from the customers and remitting it to the Bank.",
+        "M": "cm   : Payment to suppliers.",
+        "N": "cn    : Payment of salaries and remittance of recoveries made in the salary to the concerned statutory authority.",
+        "O": "co    : Transaction with the bankers.",
+        "P": "cp    : Correspondence with the Government on all the financial matters.",
+        "Q": "cq    : Maintenance of cash section, cash book.",
+        "R": "cr     : Finalisation of books of accounts for the previous financial year and getting it cleared from the statutory auditors and Comptroler and Auditor General.",
+        "S": "cs    : Placing Audited Books of Accounts before the Board and the Annual General Body Meeting.",
+        "T": "ct     : Maintenance of credit and debit balance of all the suppliers and customers.",
+        "U": "cu    : Exercising control over the expenditure and to optimize utilization of funds to the advantage of the company.",
+        "V": "cv    : Activities related to Sales Tax, Excise Duty and Assessment of the same by the appropriate authority."
+    },
+    "RIA5": {
+        "TITLE": "RTIA5",
+        "HEADER": "d. Production Department",
+        "DESCRIPTION1": "The works Department is headed by Sri. S.E.Uddanna , Deputy General Manger (works) I/C.",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+        "A": "da    : Preparation of quarterly / bimonthly / monthly production and dispatch programme in consultation with the production planning and marketing division.",
+        "B": "db    : Production of product and spares as per the work orders raised by production Planning Division within the schedule date .Offering the products and spares to testing and inspection by the quality assurance dept.",
+        "C": "dc    : Despatch of finished goods to the customer destination as per order Acceptance .",
+        "D": "dd    : Duties and responsibility of Manager within the meaning of factories Act."
+    },
+    "RIA6": {
+        "TITLE": "RTIA6",
+        "HEADER": "e. Planning Department",
+        "DESCRIPTION1": "The Planning Department is Headed by Sri S.E.Uddanna, Deputy General Manger (Works) I/c.",
+        "DESCRIPTION2": "The duties and responsibilities of the divisions in brief are as under:-",
+        "DESCRIPTION3": "The Inspection department is headed by Sri. V.Manohar, Manger ( Quality Assurance, Tool Room & Testing).",
+        "SUB_HEADER1": "ea. Planning Division",
+        "SUB_HEADER2": "eb. Quality Assurance Division",
+        "A": "ea1    : Preparation of quarterly / bimonthly / monthly production and dispatch programmer in consultation with works and marketing divisions.",
+        "B": "ea2    : Release of indents for various components and bought out items on materials divisions for procurement.",
+        "C": "ea3    : Release of work order for the components, sub assembly & the products as per the production programme and order acceptance.",
+        "D": "ea4    : Follow up of progress of work order released.",
+        "E": "ea5    : Release of indents for the manufacture of tools at Tool Room.",
+        "F": "ea6    : Development of time standard for components, sub assly and the products.",
+        "G": "ea7    : Support for make or buy decisions.",
+        "H": "ea8    : Labour and Material details to costing for various components.",
+        "I": "ea9    : Participation in the negotiation with the suppliers and in the pricing and purchase committee.",
+        "J": "ea10  : Preparation of list of finished goods.",
+        "K": "ea11  : Maintenance of Production register.",
+        "L": "ea12  : Maintenance of component stores and tool cribs and related records.",
+        "M": "ea13  : Participation in pricing / purchase and Tender Scrutiny Committee.",
+        "N": "eb1    : The Inspection of incoming goods other than Electrical goods as per the specification mentioned in the purchase order and segregation of materials into accepted and rejected lost.",
+        "O": "eb2    : The Inspection of shop made components and assemblies as mentioned in the shop work order and drawing supplied and segregation of materials into accepted and rejected lots.",
+        "P": "eb3    : Stage shop floor inspection of components."
+    },
+    "RIA7": {
+        "TITLE": "RTIA7",
+        "HEADER": "f. Personnel & Administration Division",
+        "DESCRIPTION1": "Sri.C.H.Mallikarjuna, Manager (Personnel and Industrial Relation), heads personnel and administration divisions",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+        "SUB_HEADER1": "fa. PERSONNEL DIVISION",
+        "SUB_HEADER2": "fb. Administration",
+        "A": "fa1    : Recruitment. Presently all recruitment have been banned including recruitment on Compassionate Grounds.",
+        "B": "fa2    : Maintenance and updating of C & R Rules Seniority List Roaster Register, Accident Register, Medicines stock Register, personal Files, Training records, Attendance record and other correspondences with the other divisions and the Government.",
+        "C": "fa3    : Forwarding attendance to finance division for payment of wages and production and dispatch bonus.",
+        "D": "fa4    : Proposal relating to pay fixation Annual Increment, Non-vacancy based promotion, confirmation after probation.",
+        "E": "fa5    : Obtaining CR rating from the HOD`s in the appropriate CR forms for the purpose of sanction of annual increment and confirmation.",
+        "F": "fa6    : Retirement notice Last Pay Certificate, calculation of attendance for the purpose of payment of Gratuity.",
+        "G": "fa7    : Process and forwarding of pension forms to the EPF organisation.",
+        "H": "fa8    : Settlement of dues of the retired/deceased Employee to the legal heirs.",
+        "I": "fa9    : Employees Welfare Activities including House Keeping Ambulance, Uniforms and shoes, and maintenance of Industrial canteen etc.",
+        "J": "fa10  : Acting as a convener of departmental promotion committee.",
+        "K": "fa11  : Correspondences with the recognised unions. Processing of charter of demands and acting as convener of the negotiation committee for examination of charter of demands, negotiation, with the unions, submission of recommendations to the management.",
+        "L": "fa12  : Engagement of Apprentices and casual workmen. All correspondences related to apprentices with the concerned authorities.",
+        "M": "fa13  : Transport and Salvage and Reclamation.",
+        "N": "fb1    : Matters relating to renewal of factory license, submission of annual and half yearly returns to the Director of Factories and Boilers.",
+        "O": "fb2    : Contracts related to Transportation of Goods, Annual preventive maintenance of testing machines, weighing machines, water tank cleaning Security Services, Fax, Photocopier, Duplicating machine, General Insurance service & Courier Service etc.",
+        "P": "fb3    : All legal matters and appointment of legal advisor.",
+        "Q": "fb4    : Proposal for the payment of property tax.",
+        "R": "fb5    : Indenting and issue of stationery to user departments.",
+        "S": "fb6    : Postal dispatch & telephones."
+    },
+    "RIA8": {
+        "TITLE": "RTIA8",
+        "HEADER": "g. Research & Development",
+        "DESCRIPTION1": "Research & Development, division is headed by Sri M.L.Srinath(Research & Development).",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief is as under:-",
+        "A": "ga    : Design, Development and launching of new products.",
+        "B": "gb    : Upgrdation of Technology by introduction of new products and existing products.",
+        "C": "gc    : Development of proto- type and getting it type tested at CPRI.",
+        "D": "gd    : Type testing and renewal of Type test certificate periodically.",
+        "E": "ge    : Support for productionising the newly developed product.",
+        "F": "gf    : Providing drawing and Technical product list of new products to the user developments.",
+        "G": "gg    : Maintenance of records and records pertaining to Design and Development.",
+        "H": "gh    : Manufacture, Repair & Maintenance of jigs, fixtures, Moulding & Press Tools"
+    },
+    "RIA9": {
+        "TITLE": "RTIA9",
+        "HEADER": "h. ENGINERING DEPARTENT",
+        "DESCRIPTION1": "Engineering Divisions is headed by Sri. B.D Muchundi Asst Manager (Engineering). ",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+        "A": "ha    : Bill of materials for evaluating cost against tender.",
+        "B": "hb    : Indenting electrical goods for procurement against various Order Acceptance.",
+        "C": "hc    : Arrangement of drawing wiring diagram for the customers for their approval & for execution for work on the shop floor.",
+        "D": "hd    : Providing drawing for in house use to the user departments against indents.",
+        "E": "he     : Technical liaison with the other divisions.",
+        "F": "hf    : Participation in technical discussions.",
+        "G": "hg    : Testing of incoming goods & final products of the Company.",
+        "H": "hh    : Testing of final products before the customer wherever necessary.",
+        "I": "hi    : Clearance for dispatch",
+        "J": "hj    : Preparation of reports and forwarding the same to the Marketing Division",
+        "K": "hk    : Participation in the purchase , pricing and Tender Scrutiny Committee."
+    },
+    "RIA10": {
+        "TITLE": "RTIA10",
+        "HEADER": "i. QUALITY DEPARTMENT",
+        "DESCRIPTION1": "Quality Divisions is headed by Mr. V Manohar, Manager (Quality & Tool Room) who has served more then 30 years to company.",
+        "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
+        "A": "ia    : Development of Zigs and Fixtures for the regular and new productions activities.",
+        "B": "ib    : Maintaining the measuring instrument list and its calibration monitoring.",
+        "C": "ic    : Inspection of Procured / Incoming material.",
+        "D": "id    : Ensuring the process / routine inspection.",
+        "E": "ie     : Preparation of test certificates wherever it is required.",
+        "F": "if    :  Conduct final inspection before dispatch.",
+        "G": "ig    : Check and ensure lab report reliability for test equipments."
+    },
+    "RIA11": {
+        "TITLE": "RTIA11",
+        "HEADER": "iii) Norms set by it for the discharge of its function",
+        "A": "a)   Department manuals.",
+        "B": "b)   Orientation to Government Company Systems.",
+        "C": "c)   Approved Standing Order.",
+        "D": "d)   Officers and Superintendents Condition of Service and Conduct Rule.",
+        "E": "e)   Memorandum of Settlement with the unions.",
+        "F": "f)    Circulars and Orders issued from time to time by the Government of Karnataka and the management of MEI Limited."
+    },
+    "RIA12": {
+        "TITLE": "RTIA12",
+        "HEADER": "iv) The Rules, Regulations Instructions Manuals Records held by it or in its Control of used by its employees for discharging its functions.",
+        "DESCRIPTION": "Minimum Wages Acct.",
+        "A": "a)   Memorandum and Articles of Association.",
+        "B": "b)   Factories Act 1948.",
+        "C": "c)   Employees Provident Fund Act 1952.",
+        "D": "d)   Employees State Insurance Act .",
+        "E": "e)   Payment of Gratuity Act.",
+        "F": "a)   Workmen Compensation Act.",
+        "G": "b)   Industrial Dispute Act.",
+        "H": "c)   Trade Union Act.",
+        "I": "d)   Contract Labour Regulation and Abolition Act 1970.",
+        "J": "e)   Apprenticeship Act 1973.",
+        "K": "f)   Indian Contract Act, Income Tax Act.",
+        "L": "g)   Certified Standing Order, Memorandum of Settlement with the union.",
+        "M": "h)   Factories Act 1948 MEI Officers Conditions of Service and Conduct Rules.",
+        "N": "i)   Circulars issued under orientation to Government Company System.",
+        "O": "j)   Minutes of meeting of the Board of Directors and the Board sub committee.",
+        "P": "k)   Bill of materials customer specification customers enquiry / tender decision of the pricing committee, order acceptance, amendment to order acceptance, approved drawings, road permits, invoice delivery challan packing slip,Modavat Register, Central Excise Credit Register, Purchase Invoice for crediting , sales invoice for debiting the duty , personal Ledger Account for input register transporter input register, monthly and weekly returns to the department of central excise.",
+        "Q": "l)   Material Indent Tender notification, enquiry, quotation submitted by the suppliers, comparison statement purchase proposal and decision of the purchase Committee, purchase order, inspection report, Bincard.",
+        "R": "m)   General Ledger, Cash sales day book purchase day book, petty cash, journal voucher , material ledger, material and labour details for costing , budget, standard costs, travel register, pay roll Bank reconciliation statement, Provident fund ledgers debit note and credit note.",
+        "S": "n)   Memorandum of settlement, recruitment register , accident register, roster register, medicine stock register, attendance record, leave letter and pass out, visitors register, franking machine accounting register, postal dispatch register, vehicle log book, petrol indent , personal files, recommendations of DPC, certified standing order, MEI Officers Conditions of Service on Conduct Rules, Government Orders and circulars, company order and circulars .",
+        "T": "o)   General Insurance ledger, Despatch declaration form, various contracts, form-21 Half Yearly Returns form-2 Renewal of factory license and notifying the change of occupier/ Manager, annual returns to Director of Factories .",
+        "U": "p)   Records pertaining to the training under the Apprenticeship Act 1973, Dorm No.16-Accident while on duty , form No-21 to the Inspector of Factories.",
+        "V": "q)   Technical Product List drawing, materials indents, work order, Assembly work, production ledger , dispatch note finished goods statement ,Material Demand Note, Tool indent.",
+        "W": "r)   Daily duty allotment register of Security Personnel, Security log book, Material incoming ledger, Material desatch ledger."
+    },
+    "RIA13": {
+        "TITLE": "RTIA13",
+        "HEADER1": "v) A STAEMENT OF CATEGORY OF DOCUMENTS THAT ARE HELD BY IT ARE UNDER ITS CONTROL",
+        "DESCRIPTION": "Minutes of Board and AGM, product Design and drawing Policy decisions , Cost sheet etc.",
+        "HEADER2": "vi) THE PARTICULARS OF ANY ARRANGEMENT THAT EXISTS FOR CONSULTATION WITH OR REPRESENTATION BY THE MEMBERS OF THE PUBLIC IN RELATION TO THE FORMATION OF THIS POLICY OR IMPLEMENTATION THERE OF NO SUCH ARRANGEMENTS"
+    },
+    "RIA14": {
+        "TITLE": "RTIA14",
+        "HEADER1": "vii) A STATEMENT OF THE BOARDS ,COUNCILS ,COMMITTEES AND OTHER BODIES CONSISTING OF TWO OR MORE PERSONS CONSTITUTED AS ITS PART OR FOR THE PURPOSE OF ITS ADVISE AND AS TO WHETHER MEETING OF THOSE BOARDS COUNCILS, COMMITTEES AND OTHER BODIES ARE OPEN TO THE PUBLIC OR THE MINUTES OF SUCH MEETING ARE ACCESSIBLE FOR PUBLIC.",
+        "DESCRIPTION1": "The following Board and committees have been constituted by the Government / Company.",
+        "A": "a)   Board of Directors.",
+        "B": "b)   Board sub-committee on Audit to deliberate on financial matters.",
+        "C": "c)   Core Committee for recommendation on Departmental issues.",
+        "D": "d)   Departmental Promotion Committee.",
+        "E": "e)   Canteen Adhoc Committee.",
+        "F": "f)   Employees Provident Fund Trust.",
+        "G": "g)   Committee to examine the complaint on the sexual harassment on women at the work spot.",
+        "H": "h)   Suggestion Evaluation Committee.",
+        "I": "i)   Ayudha Pooj Committee.",
+        "J": "j)   Pricing Committee and purchase committee.",
+        "K": "k)   Wage negotiation committee.",
+        "L": "l)   Employees Medical Relief committee.",
+        "M": "m)   Tender Scrutiny committee. The committees and other bodies are not open to public and minutes of such meeting are not accessible for public .",
+        "N": "n)   Works Committee, shop council and Safety Committee.",
+        "HEADER2": "viii) A DIRECTORY OF OFFECERS AND EMPLOYEES.",
+        "DESCRIPTION2": "Refer Annexure-1 to the Manual"
+    },
+    "RIA15": {
+        "TITLE": "RTIA15",
+        "HEADER1": "ix) THE MONTHLY REMUNERATION RECEIVED BY EACH OF ITS OFFICERS AND EMPLOYEES INCLUDING THE SYSTEM OF COPENSATION PROVIDED IN ITS REGULATION.",
+        "A": "a)   The monthly remuneration received by each of its officer and employees is as in Annexure-1 to the manual.",
+        "B": "Following compensations are provide to the employees.",
+        "C": "a)   As per the various status.",
+        "D": "b)   Shoes and uniforms.",
+        "E": "c)   Medical Benefits.",
+        "F": "d)   Leave Encashment Benefits.",
+        "G": "e)   Leave Travel Allowance and other welfare benefits",
+        "HEADER2": "x) THE BUDGET ALLOCATED TO EACH OF ITS AGENCY, INDICATING THE PARTICULAR OF ALL PlANS PROPSED EXPENDITURES AND REPORTS ON ISBURSEMENTS MADE",
+        "H": "a)   Refer approved budget for the Year 2013-14(Annexure-3).",
+        "HEADER3": "xi) THE MANNER OF EXECUTION OF SUBSIDY PROGRAMMERS INCLUDING THE AMOUNTS ALLOCATED AND DETAILS OF BENEFICIARIES OF SUCH PROGRAMMES",
+        "DESCRIPTION1": "No subsidy programmers in the company at present",
+        "HEADER4": "xii) PARTICULRS OF RECIPIENTS OF CONCESSIONS, PERMITS OF AUTORISATION GRANTED BY IT",
+        "DESCRIPTION2": "No concessions permits or authorisation granted by the company as on date except authorization to sell the products of the company, to participate in technical discussion etc as a dealer or agent of the company",
+        "HEADER5": "xiii) DETAILS IN RESPECT OF INFORMATION, AVAILABLE TO OR HELD BY IT TEDUCED IN AN ELECTRONIC FORM",
+        "DESCRIPTION3": "Website : www.meiswitchgears.org",
+        "HEADER6": "xiv) THE PARTICULARS OF FACILITIES AVAILABLE TO CITIZENS FOR OBTAINING INFORMATION INCLUDING THE WORKING HOURS OF A LIBRARY OR READING ROOM IF MAINTAINED FOR PUBLIC USE.",
+        "I": "a)   Public may ask for all information except information mentioned under SI No:vi.",
+        "J": "b)   Working Hours of the company: 8.00 am to 4.30 pm on all working days .",
+        "K": "c)   Weekly Holiday : Sunday .",
+        "L": "d)   Library and Reading Room : Not permissible for public."
+    },
+    "RIA16": {
+        "TITLE": "RTIA-263(b)",
+        "HEADER1": "xv) NAMES ,DESIGNATION AND OTHER PARTICULARS OF PUBLIC INFORMATION OFFICERS",
+        "APPELLATE_KEY": "APPELLATE :",
+        "APPELLATE_VALUE": "SMT. KOMALA",
+        "AUTHORITY_KEY": "AUTHORITY :",
+        "AUTHORITY_VALUE": "MANAGING DIRECTOR",
+        "PHONE1_KEY": "TEL NO. : ",
+        "PHONE1_VALUE": "23376644 Mobile. 9740253345",
+        "INFO_KEY": "PUBLIIC INFORMATION :",
+        "INFO_VALUE": "SRI.C.H.MALLIKARJUNA, MANAGER (PERSONNEL OFFICER AND INDUSTRIAL RELATIONS)",
+        "PHONE2_KEY": "TEL:NO :",
+        "PHONE2_VALUE": "23370062, Mobile :94483 76644",
+        "SUB_HEADER": "ASSISTANT PUBLIC Information Officer",
+        "DESCRIPTION3": "SRI. S.E. Uddanna, DEPUTY GENERAL MANAGER (Works) I/c.",
+        "DESCRIPTION4": "TEL.NO    23475065 Mobile : :9449046506.",
+        "HEADER2": "xvi) SUCH OTHER INFORMATION MAY BE PRESCRIBED AND THERE AFTER UPDATE THIS PUBLICATION EVERY YEAR",
+        "OTHER_KEY": "a. Other information",
+        "OTHER_VALUE": "Nil",
+        "MANUAL_KEY": "b. Updation of the Manual",
+        "MANUAL_VALUE": "Will be updated periodically during the month of April."
+    },
+    "RIA18-1": {
+        "TITLE": "RTIA18(1)",
+        "HEADER": "LIST OF FILES MAINTAINED IN ACCOUNTS DEPARTMENT AS PER RTI ACT UNDER SEC 4(1)(A)",
+        "A": "Bank File Correspondence",
+        "B": "Authorised Signatory of Bank",
+        "C": "GOK File",
+        "D": "AG’s Audit Query",
+        "E": "Purchases Order",
+        "F": "All Vouchers Connected to Subsidiary Books",
+        "G": "Pay Roll",
+        "H": "Income Tax & Prof. Tax File",
+        "I": "General File"
+    },
+    "RIA18-2": {
+        "TITLE": "RTIA18(2)",
+        "HEADER": "LIST OF FILES MAINTAINED IN WORKS DEPARTMENT AS PER RTI ACT UNDER SEC 4(1)(A)",
+        "A": "OA FILE",
+        "B": "WORK ORDER FILE",
+        "C": "DC FILE",
+        "D": "Assembly Work Order & GA, Wiring Drawing File",
+        "E": "Testing report file",
+        "F": "IR File",
+        "G": "MDN File",
+        "H": "PO File",
+        "I": "Indent File",
+        "J": "In-house component work order – Ledger",
+        "K": "All Gears Serial No. – Ledger",
+        "L": "DL & Testing Report File",
+        "M": "Dispathes File",
+        "N": "Training Officer File",
+        "O": "Production Programme File",
+        "P": "Pending Order File",
+        "Q": "Office Order File",
+        "R": "IOM File",
+        "S": "ISO File"
+    },
+    "FOOTER": {
+        "CUSTOMER_SUPPORT": "CUSTOMER SUPPORT",
+        "TIMINGS": "Monday-Saturday : 8:00 AM - 04:30 PM",
+        "ADDRESS": "ADDRESS",
+        "ADDRESS1": "P.B. No. 2221, Tumkur Road, Yeshwanthpur, Bangalore-560022, KARNATAKA, INDIA.",
+        "QUICK_CONTACT": "QUICK CONTACT",
+        "PHONE": "Phone: +91 080 - 23376851",
+        "FAX": "Fax: +91 080-23371811",
+        "EMAIL": "Email: mei1md@gmail.com"
+    },
+    "RIA17": {
+        "TITLE": "RIA17",
+        "HEADER": "Company Employee List",
+        "COL_SL": "SL NO.",
+        "COL_TOKEN": "TOKEN",
+        "COL_NAME": "EMPLOYEE’S NAME",
+        "COL_DESIGNATION": "DESIGNATION",
+        "0": {
+            "SL": "",
+            "TOKEN": "",
+            "DESIGNATION": "",
+            "NAME": ""
+        }
+    },
+    "BOARD_OF_DIRECTORS": {
+        "1": {
+            "NAME": "Sri K.Sheshadri(Shashi),",
+            "A": "S/o Sri D.Krishnappa,",
+            "B": "No. 282, AncheKempegowdana Doddi,",
+            "C": "Ramanagara,",
+            "D": "Phone: 9632223246"
+        },
+        "2": {
+            "NAME": "Smt. Komala",
+            "A": "Managing Director,",
+            "B": "The Mysore Electrical Industries Ltd.,",
+            "C": "P.B No: 2221, Tumkur road,",
+            "D": "Bengaluru – 560022.",
+            "E": "Phone: 23376644."
+        },
+        "3": {
+            "NAME": "Smt. Aditiraja,",
+            "A": "Director (Finance),",
+            "B": "K.P.T.C.L, Kaveri Bhavana,",
+            "C": "K.G.Road,",
+            "D": "Bengaluru – 560009.",
+            "E": "Phone: 9448381218"
+        },
+        "4": {
+            "NAME": "Sri S.Ramesh,",
+            "A": "Mallappanahalli Post,",
+            "B": "Hosadurga Taluk",
+            "C": "Chitradurga – 577 584.",
+            "D": "Phone: 9008558555."
+        },
+        "5": {
+            "NAME": "Sri Rajashekhar S. Saalimath,",
+            "A": "Haanagal Town,",
+            "B": "Haanagal Taluk,",
+            "C": "Haveri,",
+            "D": "Phone: 94801 92795."
+        },
+        "6": {
+            "NAME": "Sri D.S. Raghu,",
+            "A": "S/o D.M.Somanathayya,",
+            "B": "No. 124, 2nd cross,",
+            "C": "Karnataka Layout, Kurubarahalli,",
+            "D": "Bengaluru – 560 086",
+            "E": "Phone. 7760090085"
+        },
+        "7": {
+            "NAME": "Sri Chetan P.N.,",
+            "A": "S/o Sri Narayana Gowda,",
+            "B": "No. 1861,",
+            "C": "Ajam Khan Mosque road,",
+            "D": "K.R Mohalla,",
+            "E": "Mysuru – 570 004.",
+            "F": "Phone: 9845299444."
+        },
+        "8": {
+            "NAME": "Sri Aanjinappa,",
+            "A": "No. 84, 4th Main Road,",
+            "B": "1st cross,",
+            "C": "Near Ganesha temple, Kadirenahalli,",
+            "D": "New Colony, Banashakari 2nd stage,",
+            "E": "Bengaluru – 560 070.",
+            "F": "Phone: 94481 65213."
+        },
+        "9": {
+            "NAME": "Sri Krishna Gopala Krishna Desai,",
+            "A": "Akheti Village,Joyidaa Taluk",
+            "B": "Uttara Kannada-581453"
+        },
+        "10": {
+            "NAME": "Sri Afsal.S.M.,",
+            "A": "No. 1507, Mustafa Complex,",
+            "B": "Opposite Anand Theater,",
+            "C": "Devarajeevanahalli,",
+            "D": "Bengaluru – 560045.",
+            "E": "Phone: 99720 49997."
+        },
+        "11": {
+            "NAME": "Sri Siddappa Gowdanavar,",
+            "A": "Babanagar Post,",
+            "B": "Vijayapura,",
+            "C": "Pin-586114.",
+            "D": "Phone: 94487 52834."
+        },
+        "12": {
+            "NAME": "Sri Anantha Padmanabha,",
+            "A": "Director,",
+            "B": "S/o Sri S.B.Shankaranarayana Rao,",
+            "C": "No. 828, Clark Pet,",
+            "D": "K.R.Puram,",
+            "E": "Shivamogga – 577 202.",
+            "F": "Phone: 97414 48156"
+        }
+    },
+    "RIA18-3": {
+        "TITLE": "RTIA-41(a)",
+        "HEADER1": "THE MYSORE ELECTRICAL INDUSTRIES LIMITED., BANGALORE",
+        "HEADER2": "LIST OF FILES OF MAINTAINED IN ADMINISTRATION DEPARTMENT AS PER RTI ACT UNDER SEC 4(1)(A)",
+        "SL": "Sl.no",
+        "SUBJECT": "SUBJECT",
+        "FILE": "FILE NO.& VOL. NO.",
+        "1": {
+            "SL": "1",
+            "SUBJECT": "Director of Factories & Boilers",
+            "FILE": "SF-02"
+        },
+        "2": {
+            "SL": "2",
+            "SUBJECT": "BBMP",
+            "FILE": "SF-03"
+        },
+        "3": {
+            "SL": "3",
+            "SUBJECT": "General Insurance",
+            "FILE": "Tendered Files"
+        },
+        "4": {
+            "SL": "4",
+            "SUBJECT": "Declaration of assets by Officers and Superintendents",
+            "FILE": "Volume - 1"
+        },
+        "5": {
+            "SL": "5",
+            "SUBJECT": "Correspondences pertaining to Chairman Office",
+            "FILE": "CH-01-2014&02/2014"
+        },
+        "6": {
+            "SL": "6",
+            "SUBJECT": "Chairman office Completed Files",
+            "FILE": ""
+        },
+        "7": {
+            "SL": "7",
+            "SUBJECT": "Appointment of Non-official Chairman",
+            "FILE": ""
+        },
+        "8": {
+            "SL": "8",
+            "SUBJECT": "Chairman office requirement   procurement file.",
+            "FILE": "CH-2010"
+        },
+        "9": {
+            "SL": "9",
+            "SUBJECT": "Arranging get to gather of newly appointed 9 new non-official directors by Chairman",
+            "FILE": "CHO/NOD/2016"
+        },
+        "10": {
+            "SL": "10",
+            "SUBJECT": "Directors Nomination",
+            "FILE": ""
+        },
+        "11": {
+            "SL": "11",
+            "SUBJECT": "Sitting Fees",
+            "FILE": "SY-46"
+        },
+        "12": {
+            "SL": "12",
+            "SUBJECT": "Directors Interest",
+            "FILE": "SY-64"
+        },
+        "13": {
+            "SL": "13",
+            "SUBJECT": "Duties and obligations of Directors",
+            "FILE": ""
+        },
+        "14": {
+            "SL": "14",
+            "SUBJECT": "Payment of TA & DA to non-official directors",
+            "FILE": "ND-02"
+        },
+        "15": {
+            "SL": "15",
+            "SUBJECT": "Confirmation Under Section 274 (1)(2)",
+            "FILE": "2003"
+        },
+        "16": {
+            "SL": "16",
+            "SUBJECT": "Alteration of Memorandum & Articles of Association",
+            "FILE": ""
+        },
+        "17": {
+            "SL": "17",
+            "SUBJECT": "Share Holding",
+            "FILE": "G-71"
+        },
+        "18": {
+            "SL": "18",
+            "SUBJECT": "",
+            "FILE": "SY-45"
+        },
+        "19": {
+            "SL": "19",
+            "SUBJECT": "",
+            "FILE": "SY-43"
+        },
+        "20": {
+            "SL": "20",
+            "SUBJECT": "",
+            "FILE": "SY-42"
+        },
+        "21": {
+            "SL": "21",
+            "SUBJECT": "",
+            "FILE": "SY-40"
+        },
+        "22": {
+            "SL": "22",
+            "SUBJECT": "",
+            "FILE": "K-1"
+        },
+        "23": {
+            "SL": "23",
+            "SUBJECT": "",
+            "FILE": "M-1"
+        },
+        "24": {
+            "SL": "24",
+            "SUBJECT": "",
+            "FILE": "SY-44"
+        },
+        "25": {
+            "SL": "25",
+            "SUBJECT": "",
+            "FILE": "SY-41"
+        },
+        "26": {
+            "SL": "26",
+            "SUBJECT": "Conversion of Loan into Equity",
+            "FILE": ""
+        },
+        "27": {
+            "SL": "27",
+            "SUBJECT": "Printing of Share Certificates",
+            "FILE": "SH-01"
+        },
+        "28": {
+            "SL": "28",
+            "SUBJECT": "Transfer of equity share",
+            "FILE": ""
+        },
+        "29": {
+            "SL": "29",
+            "SUBJECT": "Delegation of powers by the Board to MD",
+            "FILE": "C-367"
+        },
+        "30": {
+            "SL": "30",
+            "SUBJECT": "Register of Companies",
+            "FILE": ""
+        },
+        "31": {
+            "SL": "31",
+            "SUBJECT": "MCA 21 E-filing of returns with the Register of Companies",
+            "FILE": "P&TM-01"
+        },
+        "32": {
+            "SL": "32",
+            "SUBJECT": "Patents & Trade Mark",
+            "FILE": "SY-80"
+        },
+        "33": {
+            "SL": "33",
+            "SUBJECT": "Old file Trade Marks",
+            "FILE": "SY-72"
+        },
+        "34": {
+            "SL": "34",
+            "SUBJECT": "Patent",
+            "FILE": "1276152"
+        },
+        "35": {
+            "SL": "35",
+            "SUBJECT": "Certificate No.s",
+            "FILE": "805669"
+        },
+        "36": {
+            "SL": "36",
+            "SUBJECT": "",
+            "FILE": "805670"
+        },
+        "37": {
+            "SL": "37",
+            "SUBJECT": "",
+            "FILE": "127651"
+        },
+        "38": {
+            "SL": "38",
+            "SUBJECT": "Work effectiveness of Sri Anil Uppin",
+            "FILE": "01/04/2012 to 31.03.2017."
+        },
+        "39": {
+            "SL": "39",
+            "SUBJECT": "Agreement to Provide Building (Space) for Operation of Installed Digital Loop Carrier (DLC) System in the Premises of the Mysore Electrical Industries Limited.",
+            "FILE": ""
+        },
+        "40": {
+            "SL": "40",
+            "SUBJECT": "Constitution of CSR Committee",
+            "FILE": ""
+        },
+        "41": {
+            "SL": "41",
+            "SUBJECT": "Recruitment of Company Secretary",
+            "FILE": "23rd April 2015."
+        },
+        "42": {
+            "SL": "42",
+            "SUBJECT": "The Institute of Company  Secretaries of India, Notification,",
+            "FILE": ""
+        },
+        "43": {
+            "SL": "43",
+            "SUBJECT": "Disclosure and declaration received from the Directors.",
+            "FILE": "SY-61"
+        },
+        "44": {
+            "SL": "44",
+            "SUBJECT": "New License.",
+            "FILE": "SY-66"
+        },
+        "45": {
+            "SL": "45",
+            "SUBJECT": "Labour Laws",
+            "FILE": "CIN U85110KA1945PLC000367"
+        },
+        "46": {
+            "SL": "46",
+            "SUBJECT": "Copy of DIN Application",
+            "FILE": ""
+        },
+        "47": {
+            "SL": "47",
+            "SUBJECT": "Guidelines for functioning of Security Agencies",
+            "FILE": "SY-18"
+        },
+        "48": {
+            "SL": "48",
+            "SUBJECT": "Industrial License",
+            "FILE": "."
+        },
+        "49": {
+            "SL": "49",
+            "SUBJECT": "Report of The Committee for the security of the Organizational matters",
+            "FILE": "12"
+        },
+        "50": {
+            "SL": "50",
+            "SUBJECT": "Office Orders pertaining to Authorization to act an I/c. Company Secretary",
+            "FILE": "BOD"
+        },
+        "51": {
+            "SL": "51",
+            "SUBJECT": "Confirmation U/s. 274 (i)(g) of the Companies Act, 1956, as amended in Dec 2000",
+            "FILE": "35"
+        },
+        "52": {
+            "SL": "52",
+            "SUBJECT": "Amendment to OGCS",
+            "FILE": ""
+        },
+        "53": {
+            "SL": "53",
+            "SUBJECT": "Certificate by a Company in Secretary",
+            "FILE": ""
+        },
+        "54": {
+            "SL": "54",
+            "SUBJECT": "CTC",
+            "FILE": ""
+        },
+        "55": {
+            "SL": "55",
+            "SUBJECT": "Correspondence with Government with referred to Chairman having state /. Cabinet ministry rank",
+            "FILE": ""
+        },
+        "56": {
+            "SL": "56",
+            "SUBJECT": "Duties and Responsibility of Chairman.",
+            "FILE": "1998"
+        },
+        "57": {
+            "SL": "57",
+            "SUBJECT": "Circular Resolutions",
+            "FILE": ""
+        },
+        "58": {
+            "SL": "58",
+            "SUBJECT": "EGM & Board meeting extend o f Borrowing Powers",
+            "FILE": ""
+        },
+        "59": {
+            "SL": "59",
+            "SUBJECT": "Payment of Professional Charges for e-filing of Form 23AC & 23ACA",
+            "FILE": ""
+        },
+        "60": {
+            "SL": "60",
+            "SUBJECT": "Forwarding quarterly profitability statement to the director",
+            "FILE": ""
+        },
+        "61": {
+            "SL": "61",
+            "SUBJECT": "One day workshop for non official directors",
+            "FILE": ""
+        },
+        "62": {
+            "SL": "62",
+            "SUBJECT": "Extra ordinary General Meeting 12.07.1996 at 3 pm",
+            "FILE": ""
+        },
+        "63": {
+            "SL": "63",
+            "SUBJECT": "Filing of Form-5 in the year 1997",
+            "FILE": ""
+        },
+        "64": {
+            "SL": "64",
+            "SUBJECT": "Approval of C&R rules.",
+            "FILE": "28.03.1998"
+        },
+        "65": {
+            "SL": "65",
+            "SUBJECT": "Draft rules for providing appointment on Compassionate Grounds Board Note and Agenda",
+            "FILE": ""
+        },
+        "66": {
+            "SL": "66",
+            "SUBJECT": "MEI Officers conditions of service and conduct rules.",
+            "FILE": "DT/PS/08-09/C-62"
+        },
+        "67": {
+            "SL": "67",
+            "SUBJECT": "Passing of resolution by Circulation dated 22.10.08 in respect of Enhancement of Commuting Charges to the Employees.",
+            "FILE": ""
+        },
+        "68": {
+            "SL": "68",
+            "SUBJECT": "Sun Direct connection to MD & Chairman office",
+            "FILE": ""
+        },
+        "69": {
+            "SL": "69",
+            "SUBJECT": "LG make TV to Chairman",
+            "FILE": ""
+        },
+        "70": {
+            "SL": "70",
+            "SUBJECT": "Sony make Laptop",
+            "FILE": ""
+        },
+        "71": {
+            "SL": "71",
+            "SUBJECT": "Procurement of One Number LG make 42 TV set.",
+            "FILE": ""
+        },
+        "72": {
+            "SL": "72",
+            "SUBJECT": "Procurement of wall clock to Board room",
+            "FILE": ""
+        },
+        "73": {
+            "SL": "73",
+            "SUBJECT": "Reimbursement of Conveyance charges to CMD.",
+            "FILE": ""
+        },
+        "74": {
+            "SL": "74",
+            "SUBJECT": "Woolen type floor MAT to MD's Chamber",
+            "FILE": ""
+        },
+        "75": {
+            "SL": "75",
+            "SUBJECT": "Purchase of Refrigerator for MD's office",
+            "FILE": ""
+        },
+        "76": {
+            "SL": "76",
+            "SUBJECT": "Correspondence with National Commission for Schedules Castes.",
+            "FILE": "FIR-22/10"
+        },
+        "77": {
+            "SL": "77",
+            "SUBJECT": "Illegal Entry and attempt to cut sandal wood trees.",
+            "FILE": ""
+        },
+        "78": {
+            "SL": "78",
+            "SUBJECT": "Copper theft case",
+            "FILE": ""
+        },
+        "79": {
+            "SL": "79",
+            "SUBJECT": "Shifting refrigerator & furniture to Home office of MD",
+            "FILE": ""
+        },
+        "80": {
+            "SL": "80",
+            "SUBJECT": "Company PAN Card & VAT",
+            "FILE": ""
+        },
+        "81": {
+            "SL": "81",
+            "SUBJECT": "Copy of Central Solar Tax Certificate",
+            "FILE": ""
+        },
+        "82": {
+            "SL": "82",
+            "SUBJECT": "Copies of GOK Orders",
+            "FILE": ""
+        },
+        "83": {
+            "SL": "83",
+            "SUBJECT": "Information sent to CM Office",
+            "FILE": ""
+        },
+        "84": {
+            "SL": "84",
+            "SUBJECT": "Diploma Graduate Apprentice Appointment Application Forms",
+            "FILE": ""
+        },
+        "85": {
+            "SL": "85",
+            "SUBJECT": "Board of Apprenticeship Chennai, Certificate of Training",
+            "FILE": ""
+        },
+        "86": {
+            "SL": "86",
+            "SUBJECT": "Specimen format of Notice to be displayed in various colleges.",
+            "FILE": ""
+        },
+        "87": {
+            "SL": "87",
+            "SUBJECT": "Engagement Rules of Graduate Apprentice.",
+            "FILE": "C.R.No 171/76-7 (LR)"
+        },
+        "88": {
+            "SL": "88",
+            "SUBJECT": "Revenue Appellate Tribunal",
+            "FILE": "3"
+        },
+        "89": {
+            "SL": "89",
+            "SUBJECT": "Property Old Tax File",
+            "FILE": "2"
+        },
+        "90": {
+            "SL": "90",
+            "SUBJECT": "Dispute over Property No: 100",
+            "FILE": ""
+        },
+        "91": {
+            "SL": "91",
+            "SUBJECT": "Registrar transfer ordinary shares",
+            "FILE": ""
+        },
+        "92": {
+            "SL": "92",
+            "SUBJECT": "Application and Allotment Shares ledger",
+            "FILE": ""
+        },
+        "93": {
+            "SL": "93",
+            "SUBJECT": "Share Ledger",
+            "FILE": "MISC-03-VOL1"
+        },
+        "94": {
+            "SL": "94",
+            "SUBJECT": "PROCUREMENT OF CHAIRS FOR MKTG DEPT.",
+            "FILE": "Jun-01"
+        },
+        "95": {
+            "SL": "95",
+            "SUBJECT": "Sri H.M.Muralidhar, Appointment of Legal Advisor on Retainer Basis.",
+            "FILE": "ADMN/LC50"
+        },
+        "96": {
+            "SL": "96",
+            "SUBJECT": "17B benefits payment details",
+            "FILE": ""
+        },
+        "97": {
+            "SL": "97",
+            "SUBJECT": "Office copies and Acknowledgements in the matter of WP 3788/2012.",
+            "FILE": "5"
+        },
+        "98": {
+            "SL": "98",
+            "SUBJECT": "Department of Labour",
+            "FILE": ""
+        },
+        "99": {
+            "SL": "99",
+            "SUBJECT": "Certificate of Registration",
+            "FILE": ""
+        },
+        "100": {
+            "SL": "100",
+            "SUBJECT": "Land marking Judgments Delivered by Supreme Court.",
+            "FILE": "LC-50"
+        },
+        "101": {
+            "SL": "101",
+            "SUBJECT": "Writ Petition No.. 3788/2012 (L-RES)",
+            "FILE": "LC-51/2014"
+        },
+        "102": {
+            "SL": "102",
+            "SUBJECT": "Writ Appeal No. 447-468/2015(L-RES)",
+            "FILE": ""
+        },
+        "103": {
+            "SL": "103",
+            "SUBJECT": "Filing of Special Leave Petition before the Hon'ble Supreme Court.",
+            "FILE": ""
+        },
+        "104": {
+            "SL": "104",
+            "SUBJECT": "On behalf of Late Manjunath. The Compensation sought by the Legal.",
+            "FILE": ""
+        },
+        "105": {
+            "SL": "105",
+            "SUBJECT": "Forwarding reply to Social Welfare Department with regard to the representation submitted the petitioners in ID/5 of 2000.",
+            "FILE": "LC-04"
+        },
+        "106": {
+            "SL": "106",
+            "SUBJECT": "IAEC MADRAS CP 34/88",
+            "FILE": "WP 31367 (S-RES)"
+        },
+        "107": {
+            "SL": "107",
+            "SUBJECT": "SRINIVASA MURTHY V/S MEI",
+            "FILE": "WP134/ 2005"
+        },
+        "108": {
+            "SL": "108",
+            "SUBJECT": "SRI.V.V.RAMPRAKASH",
+            "FILE": "ALC/PGA/ CR-08/ 2012-13"
+        },
+        "109": {
+            "SL": "109",
+            "SUBJECT": "SRI.V.V.RAMPRAKASH",
+            "FILE": "WP 26784/2014 (S-RES)"
+        },
+        "110": {
+            "SL": "110",
+            "SUBJECT": "SRINIVASA MURTHY V/S MEI",
+            "FILE": "OS 2191/2013"
+        },
+        "111": {
+            "SL": "111",
+            "SUBJECT": "Sri.P.B.MAHISHI",
+            "FILE": "OS 2192/2013"
+        },
+        "112": {
+            "SL": "112",
+            "SUBJECT": "SRI.V.V.RAMPRAKASH",
+            "FILE": "OS 2193/2013"
+        },
+        "113": {
+            "SL": "113",
+            "SUBJECT": "LATE.K.SRINIVAS",
+            "FILE": ""
+        },
+        "114": {
+            "SL": "114",
+            "SUBJECT": "LEGAL OPINION  (MKTG)",
+            "FILE": "PRAKARANA 55 /2009"
+        },
+        "115": {
+            "SL": "115",
+            "SUBJECT": "Sri.R.Balachandra  v/s MEI  before",
+            "FILE": ""
+        },
+        "116": {
+            "SL": "116",
+            "SUBJECT": "the SC/ST Commission",
+            "FILE": "OS NO. 0007609/2014"
+        },
+        "117": {
+            "SL": "117",
+            "SUBJECT": "CIVIL SUIT Sri.L.Krisjmappa",
+            "FILE": "ALC-1/PGA/CR-74/2013-14"
+        },
+        "118": {
+            "SL": "118",
+            "SUBJECT": "LR of K.Srinivas v/s MEI",
+            "FILE": "F.A.123/2001/VOL-2"
+        },
+        "119": {
+            "SL": "119",
+            "SUBJECT": "M.P.E.B. V/s M.E.I.( LC -25)",
+            "FILE": "OS-4384/2005           (LC-32)"
+        },
+        "120": {
+            "SL": "120",
+            "SUBJECT": "MEI V/S WIRES & CABLES",
+            "FILE": "FIR DATED 0272/2015"
+        },
+        "121": {
+            "SL": "121",
+            "SUBJECT": "THEFT COMPLAINT REGISTERED AT APMC YARD POLICE STATION",
+            "FILE": "CEC 14-15"
+        },
+        "122": {
+            "SL": "122",
+            "SUBJECT": "Central Excise Consultant",
+            "FILE": ""
+        },
+        "123": {
+            "SL": "123",
+            "SUBJECT": "Legal Opinion in the matter of engaging contract Labour through KEONICS.",
+            "FILE": "OS10501  LC -42"
+        },
+        "124": {
+            "SL": "124",
+            "SUBJECT": "MEI V/S Sharavathy Conductors",
+            "FILE": "59/2005      MFA  1160/2010"
+        },
+        "125": {
+            "SL": "125",
+            "SUBJECT": "ESI APPLICATION",
+            "FILE": "2003"
+        },
+        "126": {
+            "SL": "126",
+            "SUBJECT": "ESI Application No. 1",
+            "FILE": "WP3786/2013"
+        },
+        "127": {
+            "SL": "127",
+            "SUBJECT": "MEI V/S EPF",
+            "FILE": "LA-01/2016-17"
+        },
+        "128": {
+            "SL": "128",
+            "SUBJECT": "Appointment of Legal Advisor Sri.Parameshwarappa C.",
+            "FILE": "OS 1/99 b  LC-10 VOL 1"
+        },
+        "129": {
+            "SL": "129",
+            "SUBJECT": "M.P.E.B. v/s M.E.I.",
+            "FILE": "SF-P-04"
+        },
+        "130": {
+            "SL": "130",
+            "SUBJECT": "BDA site No. 100 Correspondence",
+            "FILE": ""
+        },
+        "131": {
+            "SL": "131",
+            "SUBJECT": "Property Documents",
+            "FILE": "14-Jun"
+        },
+        "132": {
+            "SL": "132",
+            "SUBJECT": "Sale Deed and Mr. Narsimhalu",
+            "FILE": "SY/MNV/17/84-85"
+        },
+        "133": {
+            "SL": "133",
+            "SUBJECT": "Property tax Bangalore city Corporation",
+            "FILE": "2"
+        },
+        "134": {
+            "SL": "134",
+            "SUBJECT": "Conversion of Land",
+            "FILE": ""
+        },
+        "135": {
+            "SL": "135",
+            "SUBJECT": "Valuation of Land, Buildings, land and machineries, Patterns, Dies, Tooling and Templates.",
+            "FILE": ""
+        },
+        "136": {
+            "SL": "136",
+            "SUBJECT": "Layout Plans",
+            "FILE": "Book No. 1"
+        },
+        "137": {
+            "SL": "137",
+            "SUBJECT": "Board Minutes",
+            "FILE": "From 118th Board meeting to 58th AGM"
+        },
+        "138": {
+            "SL": "138",
+            "SUBJECT": "",
+            "FILE": "From 130th BM to 62nd AGM"
+        },
+        "139": {
+            "SL": "139",
+            "SUBJECT": "",
+            "FILE": "From 146th BM to 66th AGM"
+        },
+        "140": {
+            "SL": "140",
+            "SUBJECT": "",
+            "FILE": "Book No. 1"
+        },
+        "141": {
+            "SL": "141",
+            "SUBJECT": "Audit Committee Attendance Register",
+            "FILE": "Book No. 1"
+        },
+        "142": {
+            "SL": "142",
+            "SUBJECT": "Board Meeting Attendance Register",
+            "FILE": "Book No. 1"
+        },
+        "143": {
+            "SL": "143",
+            "SUBJECT": "AGM Attendance Register",
+            "FILE": "Book No. 1"
+        },
+        "144": {
+            "SL": "144",
+            "SUBJECT": "New Share Certificate Ledgers",
+            "FILE": "Book No. 1"
+        },
+        "145": {
+            "SL": "145",
+            "SUBJECT": "CSR Committee meeting attendance register",
+            "FILE": "Book No. 1"
+        },
+        "146": {
+            "SL": "146",
+            "SUBJECT": "AGM & EGM  (Old) Attendance Register",
+            "FILE": "Book No. 1"
+        },
+        "147": {
+            "SL": "147",
+            "SUBJECT": "Board Sub Committee meeting attendance register",
+            "FILE": "Book No. 1"
+        },
+        "148": {
+            "SL": "148",
+            "SUBJECT": "Ledger containing the list of Board of Directors",
+            "FILE": "Book No. 1"
+        },
+        "149": {
+            "SL": "149",
+            "SUBJECT": "Proceedings of the EGM Meeting Ledgers",
+            "FILE": "Book No. 162nd Meeting"
+        },
+        "150": {
+            "SL": "150",
+            "SUBJECT": "Board Minutes",
+            "FILE": "Book No. 163nd Meeting",
+            "YEAR": "2012-13"
+        },
+        "151": {
+            "SL": "151",
+            "SUBJECT": "",
+            "FILE": "Book No. 164nd Meeting",
+            "YEAR": ""
+        },
+        "152": {
+            "SL": "152",
+            "SUBJECT": "",
+            "FILE": "Book No. 165nd Meeting",
+            "YEAR": ""
+        },
+        "153": {
+            "SL": "153",
+            "SUBJECT": "",
+            "FILE": "Book No. 166nd Meeting",
+            "YEAR": ""
+        },
+        "154": {
+            "SL": "154",
+            "SUBJECT": "",
+            "FILE": "Book No. 167nd Meeting",
+            "YEAR": "2013-14"
+        },
+        "155": {
+            "SL": "155",
+            "SUBJECT": "",
+            "FILE": "Book No. 168nd Meeting",
+            "YEAR": ""
+        },
+        "156": {
+            "SL": "156",
+            "SUBJECT": "",
+            "FILE": "Book No. 169nd Meeting",
+            "YEAR": ""
+        },
+        "157": {
+            "SL": "157",
+            "SUBJECT": "",
+            "FILE": "Book No. 170nd Meeting",
+            "YEAR": ""
+        },
+        "158": {
+            "SL": "158",
+            "SUBJECT": "",
+            "FILE": "Book No. 171nd Meeting",
+            "YEAR": "2014-15"
+        },
+        "159": {
+            "SL": "159",
+            "SUBJECT": "",
+            "FILE": "Book No. 172nd Meeting",
+            "YEAR": ""
+        },
+        "160": {
+            "SL": "160",
+            "SUBJECT": "",
+            "FILE": "Book No. 173nd Meeting",
+            "YEAR": ""
+        },
+        "161": {
+            "SL": "161",
+            "SUBJECT": "",
+            "FILE": "Book No. 174nd Meeting",
+            "YEAR": ""
+        },
+        "162": {
+            "SL": "162",
+            "SUBJECT": "",
+            "FILE": "Book No. 175nd Meeting",
+            "YEAR": "2015-16"
+        },
+        "163": {
+            "SL": "163",
+            "SUBJECT": "",
+            "FILE": "Book No. 176nd Meeting",
+            "YEAR": ""
+        },
+        "164": {
+            "SL": "164",
+            "SUBJECT": "Board Minutes",
+            "FILE": "Book No. 177nd Meeting",
+            "YEAR": ""
+        },
+        "165": {
+            "SL": "165",
+            "SUBJECT": "(annexed CSR Committee Report No of pages 7 pages)",
+            "FILE": "Book No. 178nd Meeting",
+            "YEAR": ""
+        },
+        "166": {
+            "SL": "166",
+            "SUBJECT": "Audit Committee Meeting Minutes",
+            "FILE": "",
+            "YEAR": "2008-09"
+        },
+        "167": {
+            "SL": "167",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2008-09"
+        },
+        "168": {
+            "SL": "168",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2008-09"
+        },
+        "169": {
+            "SL": "169",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2008-09"
+        },
+        "170": {
+            "SL": "170",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2009-10"
+        },
+        "171": {
+            "SL": "171",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2009-10"
+        },
+        "172": {
+            "SL": "172",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2010-11"
+        },
+        "173": {
+            "SL": "173",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2010-11"
+        },
+        "174": {
+            "SL": "174",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2011-12"
+        },
+        "175": {
+            "SL": "175",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2011-12"
+        },
+        "176": {
+            "SL": "176",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2011-12"
+        },
+        "177": {
+            "SL": "177",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "178": {
+            "SL": "178",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "179": {
+            "SL": "179",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "180": {
+            "SL": "180",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "181": {
+            "SL": "181",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "182": {
+            "SL": "182",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "183": {
+            "SL": "183",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "184": {
+            "SL": "184",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "185": {
+            "SL": "185",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "186": {
+            "SL": "186",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "187": {
+            "SL": "187",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "188": {
+            "SL": "188",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2015-16"
+        },
+        "189": {
+            "SL": "189",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2015-16"
+        },
+        "190": {
+            "SL": "190",
+            "SUBJECT": "",
+            "FILE": "67th",
+            "YEAR": "2015-16"
+        },
+        "191": {
+            "SL": "191",
+            "SUBJECT": "Annual General Meeting",
+            "FILE": "68th",
+            "YEAR": "2012-13"
+        },
+        "192": {
+            "SL": "192",
+            "SUBJECT": "",
+            "FILE": "69th",
+            "YEAR": "2013-14"
+        },
+        "193": {
+            "SL": "193",
+            "SUBJECT": "",
+            "FILE": "70th",
+            "YEAR": "2014-15"
+        },
+        "194": {
+            "SL": "194",
+            "SUBJECT": "",
+            "FILE": "71st",
+            "YEAR": "2015-16"
+        },
+        "195": {
+            "SL": "195",
+            "SUBJECT": "",
+            "FILE": "72nd",
+            "YEAR": "2016-17"
+        },
+        "196": {
+            "SL": "196",
+            "SUBJECT": "70th meeting related files",
+            "FILE": "1 to 7",
+            "YEAR": ""
+        },
+        "197": {
+            "SL": "197",
+            "SUBJECT": "RTI Application received",
+            "FILE": "Vol-1",
+            "YEAR": "2016-17"
+        },
+        "198": {
+            "SL": "198",
+            "SUBJECT": "RTI / 2013",
+            "FILE": "Vol-2",
+            "YEAR": ""
+        },
+        "199": {
+            "SL": "199",
+            "SUBJECT": "",
+            "FILE": "Vol-3",
+            "YEAR": ""
+        },
+        "200": {
+            "SL": "200",
+            "SUBJECT": "File with RTI bare acts.",
+            "FILE": "",
+            "YEAR": ""
+        },
+        "201": {
+            "SL": "201",
+            "SUBJECT": "Submission of Annual Report to Government",
+            "FILE": "",
+            "YEAR": ""
+        },
+        "202": {
+            "SL": "202",
+            "SUBJECT": "Information provided to Company Website",
+            "FILE": "",
+            "YEAR": ""
+        },
+        "203": {
+            "SL": "203",
+            "SUBJECT": "Original Orders issued from 2005",
+            "FILE": "",
+            "YEAR": ""
+        },
+        "204": {
+            "SL": "204",
+            "SUBJECT": "Tender Notification",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "205": {
+            "SL": "205",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "206": {
+            "SL": "206",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2015-16"
+        },
+        "207": {
+            "SL": "207",
+            "SUBJECT": "Correspondence File",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "208": {
+            "SL": "208",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "209": {
+            "SL": "209",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2015-16"
+        },
+        "210": {
+            "SL": "210",
+            "SUBJECT": "Tender Terms and Conditions",
+            "FILE": "",
+            "YEAR": ""
+        },
+        "211": {
+            "SL": "211",
+            "SUBJECT": "GMC Correspondence File",
+            "FILE": "",
+            "YEAR": "2010-11"
+        },
+        "212": {
+            "SL": "212",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2011-12"
+        },
+        "213": {
+            "SL": "213",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "214": {
+            "SL": "214",
+            "SUBJECT": "GMC ORIGINAL POLICY FOR THE YEAR 2016-17",
+            "FILE": "",
+            "YEAR": ""
+        },
+        "215": {
+            "SL": "215",
+            "SUBJECT": "GMC Correspondence File",
+            "FILE": "",
+            "YEAR": "2016-17"
+        },
+        "216": {
+            "SL": "216",
+            "SUBJECT": "GMC TENDER SERIAL NO.72-001/CRRR-ADMN",
+            "FILE": "",
+            "YEAR": "2016-17"
+        },
+        "217": {
+            "SL": "217",
+            "SUBJECT": "GMC Original Policies",
+            "FILE": "",
+            "YEAR": "2010-11"
+        },
+        "218": {
+            "SL": "218",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2011-12"
+        },
+        "219": {
+            "SL": "219",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "220": {
+            "SL": "220",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "221": {
+            "SL": "221",
+            "SUBJECT": "",
+            "FILE": "",
+            "YEAR": "2014-15"
+        },
+        "222": {
+            "SL": "222",
+            "SUBJECT": "",
+            "FILE": "2015-16",
+            "YEAR": "2015-16"
+        },
+        "223": {
+            "SL": "223",
+            "SUBJECT": "ETO throughout India contract",
+            "FILE": "Vol-1",
+            "YEAR": "2006-2008"
+        },
+        "224": {
+            "SL": "224",
+            "SUBJECT": "General File",
+            "FILE": "Vol-4",
+            "YEAR": ""
+        },
+        "225": {
+            "SL": "225",
+            "SUBJECT": "ARC",
+            "FILE": "040-00ADMN",
+            "YEAR": "2006-08"
+        },
+        "226": {
+            "SL": "226",
+            "SUBJECT": "Tender Sl.No",
+            "FILE": "TC-01-Vol-2",
+            "YEAR": "2014-16"
+        },
+        "227": {
+            "SL": "227",
+            "SUBJECT": "Simran Logistic",
+            "FILE": "",
+            "YEAR": "2002-2004"
+        },
+        "228": {
+            "SL": "228",
+            "SUBJECT": "Contract of transportation of goods throughout Karnataka",
+            "FILE": "",
+            "YEAR": "2004-2006"
+        },
+        "229": {
+            "SL": "229",
+            "SUBJECT": "Prakash Parcel Services",
+            "FILE": "",
+            "YEAR": "2006-08"
+        },
+        "230": {
+            "SL": "230",
+            "SUBJECT": "Tender Papers",
+            "FILE": "TC-01-Vol-5",
+            "YEAR": "2008-10"
+        },
+        "231": {
+            "SL": "231",
+            "SUBJECT": "Ranka Road lines",
+            "FILE": "TC-01-Vol-7",
+            "YEAR": "2010-12"
+        },
+        "232": {
+            "SL": "232",
+            "SUBJECT": "Ranka Road lines",
+            "FILE": "TC-01-Vol-8",
+            "YEAR": "2014-16"
+        },
+        "233": {
+            "SL": "233",
+            "SUBJECT": "Aqua Packers and Movers",
+            "FILE": "",
+            "YEAR": "2016-17"
+        },
+        "234": {
+            "SL": "234",
+            "SUBJECT": "Tender SL.NO",
+            "FILE": "",
+            "YEAR": "069-001/ADMN"
+        },
+        "235": {
+            "SL": "235",
+            "SUBJECT": "Original Agreement Papers executed by M/s. Aqua Packers and Movers And the Security Deposit Receipt",
+            "FILE": "Vol-1",
+            "YEAR": "2016-18"
+        },
+        "236": {
+            "SL": "236",
+            "SUBJECT": "Local Transportation",
+            "FILE": "Vol-6",
+            "YEAR": "2000-02"
+        },
+        "237": {
+            "SL": "237",
+            "SUBJECT": "Original Agreement papers from 2001-16",
+            "FILE": "Vol-1",
+            "YEAR": ""
+        },
+        "238": {
+            "SL": "238",
+            "SUBJECT": "DEPOSIT OF COPPER TO MAIN STORES",
+            "FILE": "Vol-1",
+            "YEAR": "29.11.2010"
+        },
+        "239": {
+            "SL": "239",
+            "SUBJECT": "PROVIDING MEN AT HOME OFFICEOF MD.",
+            "FILE": "Vol-4",
+            "YEAR": "2008-09"
+        },
+        "240": {
+            "SL": "240",
+            "SUBJECT": "CONTRACT FILE",
+            "FILE": "VOL-1",
+            "YEAR": "2006-07"
+        },
+        "241": {
+            "SL": "241",
+            "SUBJECT": "NOVEL SECURIY SERVICE CONTRACT FILE",
+            "FILE": "",
+            "YEAR": "2009-2010"
+        },
+        "242": {
+            "SL": "242",
+            "SUBJECT": "COPIES OF ALL DOCUMENTS SUBMITTED BY THE AGENCY",
+            "FILE": "",
+            "YEAR": "2009-10"
+        },
+        "243": {
+            "SL": "243",
+            "SUBJECT": "SECUIRTY REPORT DATED 13.04.2013.",
+            "FILE": "",
+            "YEAR": "2013-14"
+        },
+        "244": {
+            "SL": "244",
+            "SUBJECT": "SECUIRTY REPORT DATED 30.08.2012 ABOUT THE OCCURANCE OF FIRE IN PLATING DEPARTMENT.",
+            "FILE": "",
+            "YEAR": "2012-13"
+        },
+        "245": {
+            "SL": "245",
+            "SUBJECT": "FOCUS SECURITY  PERFORMANCE REPORT",
+            "FILE": "",
+            "YEAR": "2010-2012"
+        },
+        "246": {
+            "SL": "246",
+            "SUBJECT": "General Insurance",
+            "YEAR": "Tendered Files"
+        },
+        "247": {
+            "SL": "247",
+            "SUBJECT": "General Insurance Tender File 2015",
+            "YEAR": "2016-2017"
+        },
+        "248": {
+            "SL": "248",
+            "SUBJECT": "",
+            "YEAR": "IT 2016-17"
+        },
+        "249": {
+            "SL": "249",
+            "SUBJECT": "General Insurance Original Policy Schedules",
+            "YEAR": "2015-2017"
+        },
+        "250": {
+            "SL": "250",
+            "SUBJECT": "",
+            "YEAR": "IT 2016-17"
+        },
+        "251": {
+            "SL": "251",
+            "SUBJECT": "Burglary & House Breaking",
+            "YEAR": "2015-2017"
+        },
+        "252": {
+            "SL": "252",
+            "SUBJECT": "",
+            "YEAR": "IT 2016-17"
+        },
+        "253": {
+            "SL": "253",
+            "SUBJECT": "Money Insurance",
+            "YEAR": "2015-2017"
+        },
+        "254": {
+            "SL": "254",
+            "SUBJECT": "",
+            "YEAR": "IT 2016-17"
+        },
+        "255": {
+            "SL": "255",
+            "SUBJECT": "Fidelity Guarantee",
+            "YEAR": "2015-2017"
+        },
+        "256": {
+            "SL": "256",
+            "SUBJECT": "",
+            "YEAR": "IT 2016-17"
+        },
+        "257": {
+            "SL": "257",
+            "SUBJECT": "Standard Fire and Special Perils",
+            "YEAR": "2015-2017"
+        },
+        "258": {
+            "SL": "258",
+            "SUBJECT": "",
+            "YEAR": "IT 2016-17"
+        },
+        "259": {
+            "SL": "259",
+            "SUBJECT": "Tender File General Insurance",
+            "YEAR": "Sl.No 68-001 / ADMN"
+        },
+        "260": {
+            "SL": "260",
+            "SUBJECT": "Group Personnel Accidents Insurance Policy Schedules",
+            "YEAR": "GPA"
+        },
+        "261": {
+            "SL": "261",
+            "SUBJECT": "Marine Insurance Original Policy Schedule",
+            "YEAR": ""
+        },
+        "262": {
+            "SL": "262",
+            "SUBJECT": "Marine Insurance 2015-16",
+            "YEAR": ""
+        },
+        "263": {
+            "SL": "263",
+            "SUBJECT": "Maintenance of Fire Extinguishers Equipments",
+            "YEAR": "Vol-2"
+        },
+        "264": {
+            "SL": "264",
+            "SUBJECT": "Tender Sl.No 70-001/ADMN Security Contract",
+            "YEAR": "Vol - 1"
+        },
+        "265": {
+            "SL": "265",
+            "SUBJECT": "File containing award of Contract for providing Security Services on monthly Rate Contract Basis.",
+            "YEAR": "Vol-1"
+        },
+        "266": {
+            "SL": "266",
+            "SUBJECT": "Availing the services of civil security guards,",
+            "YEAR": ""
+        },
+        "267": {
+            "SL": "267",
+            "SUBJECT": "Performance report of Focus Security",
+            "YEAR": ""
+        },
+        "268": {
+            "SL": "268",
+            "SUBJECT": "Security Contract File",
+            "YEAR": "SEC-2012"
+        },
+        "269": {
+            "SL": "269",
+            "SUBJECT": "Report to Chairman about the functions of Security Department.",
+            "YEAR": ""
+        },
+        "270": {
+            "SL": "270",
+            "SUBJECT": "Correspondence with DGR",
+            "YEAR": ""
+        },
+        "271": {
+            "SL": "271",
+            "SUBJECT": "Security Report for the date 21.02.2015",
+            "YEAR": ""
+        },
+        "272": {
+            "SL": "272",
+            "SUBJECT": "Report of theft dated 20.11.2015",
+            "YEAR": ""
+        },
+        "273": {
+            "SL": "273",
+            "SUBJECT": "Security Report dated 06.11.2013 the damage cost to gate light",
+            "YEAR": ""
+        },
+        "274": {
+            "SL": "274",
+            "SUBJECT": "Security report about theft accord on 16.11.2014",
+            "YEAR": ""
+        },
+        "275": {
+            "SL": "275",
+            "SUBJECT": "Theft report dt 26.09.2012",
+            "YEAR": ""
+        },
+        "276": {
+            "SL": "276",
+            "SUBJECT": "Capture of apprentice steeling copper pieces 29.04.2012",
+            "YEAR": ""
+        },
+        "277": {
+            "SL": "277",
+            "SUBJECT": "RTI 2005",
+            "YEAR": "RIA / 2013, Vol-3"
+        },
+        "278": {
+            "SL": "278",
+            "SUBJECT": "Fax Machine AMC-04"
+        },
+        "279": {
+            "SL": "279",
+            "SUBJECT": "Procurement of Photo copier Machine"
+        },
+        "280": {
+            "SL": "280",
+            "SUBJECT": "AMC for waiving scales"
+        },
+        "281": {
+            "SL": "281",
+            "SUBJECT": "Post office complaint file"
+        },
+        "282": {
+            "SL": "282",
+            "SUBJECT": "Fax machine procurement file to Mktg Dept."
+        },
+        "283": {
+            "SL": "283",
+            "SUBJECT": "Withdrawal of landline facility provided to officers of the Company."
+        },
+        "284": {
+            "SL": "284",
+            "SUBJECT": "Contract for line maintenance telephone instruments."
+        },
+        "285": {
+            "SL": "285",
+            "SUBJECT": "Procurement of postal franking machine - 2012"
+        },
+        "286": {
+            "SL": "286",
+            "SUBJECT": "Maintenance of manual type writers"
+        },
+        "287": {
+            "SL": "287",
+            "SUBJECT": "Maintenance of testing machines"
+        },
+        "288": {
+            "SL": "288",
+            "SUBJECT": "FKCCI"
+        },
+        "289": {
+            "SL": "289",
+            "SUBJECT": "Procurement of practical product assurance management book"
+        },
+        "290": {
+            "SL": "290",
+            "SUBJECT": "Purchase Postal franking machine"
+        },
+        "291": {
+            "SL": "291",
+            "SUBJECT": "Misc 01, installation of CCTV"
+        },
+        "292": {
+            "SL": "292",
+            "SUBJECT": "Theft report from maintenance department"
+        },
+        "293": {
+            "SL": "293",
+            "SUBJECT": "Procurement of wall clock to Board room"
+        },
+        "294": {
+            "SL": "294",
+            "SUBJECT": "Procurement of Brush Cutter Model No. 746 T"
+        },
+        "295": {
+            "SL": "295",
+            "SUBJECT": "News paper advt"
+        },
+        "296": {
+            "SL": "296",
+            "SUBJECT": "The national association for blind"
+        },
+        "297": {
+            "SL": "297",
+            "SUBJECT": "Acknowledgement"
+        },
+        "298": {
+            "SL": "298",
+            "SUBJECT": "Procurement of books"
+        },
+        "299": {
+            "SL": "299",
+            "SUBJECT": "Clause 1 license"
+        },
+        "300": {
+            "SL": "300",
+            "SUBJECT": "Retainer ship of Company Law consultant"
+        },
+        "301": {
+            "SL": "301",
+            "SUBJECT": "Press Report"
+        },
+        "302": {
+            "SL": "302",
+            "SUBJECT": "Board meeting note pad procurement"
+        },
+        "303": {
+            "SL": "303",
+            "SUBJECT": "Water sample"
+        },
+        "304": {
+            "SL": "304",
+            "SUBJECT": "MD office chair and sofa set repair file"
+        },
+        "305": {
+            "SL": "305",
+            "SUBJECT": "Vishal Sound system"
+        },
+        "306": {
+            "SL": "306",
+            "SUBJECT": "Air ticket booking"
+        },
+        "307": {
+            "SL": "307",
+            "SUBJECT": "Chairman room wall clock repair"
+        },
+        "308": {
+            "SL": "308",
+            "SUBJECT": "Procurement of foot mat from KSCDC Ltd.,"
+        },
+        "309": {
+            "SL": "309",
+            "SUBJECT": "Supply of chairs"
+        },
+        "310": {
+            "SL": "310",
+            "SUBJECT": "MD's approval"
+        },
+        "311": {
+            "SL": "311",
+            "SUBJECT": "Founders day celebration"
+        },
+        "312": {
+            "SL": "312",
+            "SUBJECT": "Procurement of Chairs"
+        },
+        "313": {
+            "SL": "313",
+            "SUBJECT": "Procurement of Magazine"
+        },
+        "314": {
+            "SL": "314",
+            "SUBJECT": "Physical inventory of assets of the Company"
+        },
+        "315": {
+            "SL": "315",
+            "SUBJECT": "News paper and magazines"
+        },
+        "316": {
+            "SL": "316",
+            "SUBJECT": "Compound wall height increase"
+        },
+        "317": {
+            "SL": "317",
+            "SUBJECT": "Procurement of Board meeting minutes loose sheets"
+        },
+        "318": {
+            "SL": "318",
+            "SUBJECT": "procurement LG make AC"
+        },
+        "319": {
+            "SL": "319",
+            "SUBJECT": "Alfa sting of internal roads"
+        },
+        "320": {
+            "SL": "320",
+            "SUBJECT": "Customs IND court No"
+        },
+        "321": {
+            "SL": "321",
+            "SUBJECT": "Renewal of accommodation given to BSNL"
+        },
+        "322": {
+            "SL": "322",
+            "SUBJECT": "Travel Agency"
+        },
+        "323": {
+            "SL": "323",
+            "SUBJECT": "DTDC Courier"
+        },
+        "324": {
+            "SL": "324",
+            "SUBJECT": "KSIC"
+        },
+        "325": {
+            "SL": "325",
+            "SUBJECT": "Purchase of Wall calendar and Desk refills"
+        },
+        "326": {
+            "SL": "326",
+            "SUBJECT": "Apprentice file"
+        },
+        "327": {
+            "SL": "327",
+            "SUBJECT": "Kannada Kavalu  Samithi"
+        },
+        "328": {
+            "SL": "328",
+            "SUBJECT": "Correspondences with Government"
+        },
+        "329": {
+            "SL": "329",
+            "SUBJECT": "Information sent to energy department"
+        },
+        "330": {
+            "SL": "330",
+            "SUBJECT": "Correspondence with Company Law Board"
+        },
+        "331": {
+            "SL": "331",
+            "SUBJECT": "Department of Public enterprises"
+        },
+        "332": {
+            "SL": "332",
+            "SUBJECT": "Correspondences with AGs"
+        },
+        "333": {
+            "SL": "333",
+            "SUBJECT": "KEB inspection"
+        },
+        "334": {
+            "SL": "334",
+            "SUBJECT": "KEB Deposit"
+        },
+        "335": {
+            "SL": "335",
+            "SUBJECT": "Allotment of energy and tariff rate KPTCL -"
+        },
+        "336": {
+            "SL": "336",
+            "SUBJECT": "Correspondences with C & I Dept."
+        },
+        "337": {
+            "SL": "337",
+            "SUBJECT": "Information provided to BIFR"
+        },
+        "338": {
+            "SL": "338",
+            "SUBJECT": "Information provided to Backward classes commission"
+        },
+        "339": {
+            "SL": "339",
+            "SUBJECT": "Misc. correspondences with GOI."
+        },
+        "340": {
+            "SL": "340",
+            "SUBJECT": "LA QUESTIONS"
+        },
+        "341": {
+            "SL": "341",
+            "SUBJECT": "Correspondences with the Dept. of Kannada & Culture."
+        },
+        "342": {
+            "SL": "342",
+            "SUBJECT": "Correspondences with  Karnataka Legislature"
+        },
+        "343": {
+            "SL": "343",
+            "SUBJECT": "Correspondences with I & C"
+        },
+        "344": {
+            "SL": "344",
+            "SUBJECT": "File pertaining to Arbitration."
+        },
+        "345": {
+            "SL": "345",
+            "SUBJECT": "Information provided to Energy Dept."
+        },
+        "346": {
+            "SL": "346",
+            "SUBJECT": "Appointment of Statutory Auditors"
+        },
+        "347": {
+            "SL": "347",
+            "SUBJECT": "Hyderabad Karnataka Area Development Act - 2013."
+        },
+        "348": {
+            "SL": "348",
+            "SUBJECT": "Correspondences with Kannada Development Authority."
+        },
+        "349": {
+            "SL": "349",
+            "SUBJECT": "Appointment of Internal Auditors."
+        },
+        "350": {
+            "SL": "350",
+            "SUBJECT": "Correspondences with Tecsok"
+        },
+        "351": {
+            "SL": "351",
+            "SUBJECT": "Compliance of directions given in the Janata  Darshan of Chief Minister."
+        },
+        "352": {
+            "SL": "352",
+            "SUBJECT": "BWSSB RESTORATION OF WATER SUPPLY & INCREASE THE BORE SIXE"
+        },
+        "353": {
+            "SL": "353",
+            "SUBJECT": "Tender Notification"
+        },
+        "354": {
+            "SL": "354",
+            "SUBJECT": "Correspondence File"
+        },
+        "355": {
+            "SL": "355",
+            "SUBJECT": "Tender Terms and Conditions"
+        },
+        "356": {
+            "SL": "356",
+            "SUBJECT": "GMC Correspondence File"
+        },
+        "357": {
+            "SL": "357",
+            "SUBJECT": "GMC ORIGINAL POLICY"
+        },
+        "358": {
+            "SL": "358",
+            "SUBJECT": "GMC Correspondence File"
+        },
+        "359": {
+            "SL": "359",
+            "SUBJECT": "GMC TENDER SERIAL NO.72-001/CRRR-ADMN"
+        },
+        "360": {
+            "SL": "360",
+            "SUBJECT": "GMC Original Policies"
+        },
+        "361": {
+            "SL": "361",
+            "SUBJECT": "Claim details"
+        }
+    }
+}

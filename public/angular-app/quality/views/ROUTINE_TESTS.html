@@ -1,0 +1,22 @@
+<section>
+    <h1 class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-bind="'ROUTINE_TESTS.TITLE'|translate"></h1>
+    <hr>
+    <div class="row" class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+        <img class="img-responsive img-rounded  margin-auto" src="images/routine_tests.jpg" alt="no image" />
+    </div>
+    <hr>
+    <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+        <div ng-repeat="(key,value) in routineTests">
+            <p class="red"><strong>{{"ROUTINE_TESTS."+key+".HEADER"|translate}}</strong></p>
+            <p class="red"><strong>{{"ROUTINE_TESTS."+key+".STANDARDS"|translate}}</strong></p>
+            <p class="green"><strong>{{"ROUTINE_TESTS.TESTS_CONDUCTED"|translate}}</strong></p>
+            <div class="margin50-left-rt">
+                    <p class="black" ng-if="value.DESCRIPTION1">{{"ROUTINE_TESTS."+key+".DESCRIPTION1"|translate}}</p>
+                    <p class="black" ng-if="value.DESCRIPTION2">{{"ROUTINE_TESTS."+key+".DESCRIPTION2"|translate}}</p>
+                    <p class="black" ng-if="value.DESCRIPTION3">{{"ROUTINE_TESTS."+key+".DESCRIPTION3"|translate}}</p>
+                    <p class="black" ng-if="value.DESCRIPTION4">{{"ROUTINE_TESTS."+key+".DESCRIPTION4"|translate}}</p>
+                    <p class="black" ng-if="value.DESCRIPTION5">{{"ROUTINE_TESTS."+key+".DESCRIPTION5"|translate}}</p>
+            </div>
+        </div>
+    </div>
+</section>

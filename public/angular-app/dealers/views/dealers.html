@@ -1,0 +1,35 @@
+<section>
+    <div class="row cmp-details" id="myGroup" ng-repeat="region in regionList">
+        <div class="row content-desc" data-toggle="collapse" data-target="#desc{{$index}}" data-parent="#myGroup">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                <div class="hovereffect">
+                    <img class="img-responsive" src="{{region.url}}" alt="no image">
+                    <div class="overlay">
+                        <h2>{{"ALL_DEALERS."+region.key+".TITLE" | translate}}</h2>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="accordion-group">
+                <div class="collapse indent col-lg-9 col-md-8 col-sm-6 col-xs-12" id="desc{{$index}}">
+                    <p>
+                        <i>{{"ALL_DEALERS."+region.key+".COMPANY" | translate}}</i>
+                    </p>
+                    <p>
+                        <i>{{"ALL_DEALERS."+region.key+".ADDRESS" | translate}}</i>
+                    </p>
+                    <p>
+                        <i>{{"ALL_DEALERS."+region.key+".PHONE" | translate}}</i>
+                    </p>
+                    <p>
+                        <i>{{"ALL_DEALERS."+region.key+".FAX" | translate}}</i>
+                    </p>
+                    <p>
+                        <i>{{"ALL_DEALERS."+region.key+".EMAIL" | translate}}</i>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

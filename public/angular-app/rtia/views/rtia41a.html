@@ -1,0 +1,27 @@
+<section>
+    <h3 class="md-display-2 black heading">
+        <strong ng-bind="'RIA18-3.TITLE'|translate"></strong>
+    </h3>
+    <p class="black" ng-bind="'RIA18-3.HEADER1'|translate"></p>
+    <p class="black" ng-bind="'RIA18-3.HEADER2'|translate"></p>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th ng-bind="'RIA18-3.SL'|translate"></th>
+                <th ng-bind="'RIA18-3.SUBJECT'|translate">Lastname</th>
+                <th>YEAR</th>
+                <!-- <th></th> -->
+                <th ng-bind="'RIA18-3.FILE'|translate">Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="file in fileList track by $index">
+                <td>{{file.SL|translate}}</td>
+                <td>{{file.SUBJECT|translate}}</td>
+                <td>{{file.YEAR|translate}}</td>
+                <!-- <td></td> -->
+                <td>{{file.FILE|translate}}</td>
+            </tr>
+        </tbody>
+    </table>
+</section>

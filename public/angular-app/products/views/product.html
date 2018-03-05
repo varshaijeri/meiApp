@@ -1,0 +1,14 @@
+<section class="black">
+    <div class="row">
+        <img src="{{currentData.url}}" alt="no image"/>
+    </div>
+    <div class="row" class="not-visible" when-visible="animateElementIn"
+    when-not-visible="animateElementOut">
+            <h1>{{currentData.key+'.HEADER'|translate}}</h1>
+            <p class="black" ng-if="currentData.TYPE_KEY"><strong>{{currentData.key+'.TYPE_KEY'|translate}}</strong>{{currentData.key+'.TYPE_VALUE'|translate}}</p>
+            <p class="black" ng-if="currentData.RATING_KEY"><strong>{{currentData.key+'.RATING_KEY'|translate}}</strong>{{currentData.key+'.RATING_VALUE'|translate}}</p>
+            <p class="black" ng-if="currentData.RATING_VALUE1">{{currentData.key+'.RATING_VALUE1'|translate}}</p>
+            <p class="black" ng-if="currentData.RATING_VALUE2">{{currentData.key+'.RATING_VALUE2'|translate}}</p>
+            <p class="black" ng-if="currentData.INSTALLATION_KEY"><strong>{{currentData.key+'.INSTALLATION_KEY'|translate}}</strong>{{currentData.key+'.INSTALLATION_VALUE'|translate}}</p>
+    </div>
+</section>

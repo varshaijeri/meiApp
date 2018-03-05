@@ -1,0 +1,44 @@
+<section layout="row" flex>
+
+    <md-sidenav class="md-sidenav-left" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4">
+        <md-toolbar class="md-theme-indigo">
+            <h1 class="md-toolbar-tools white" ng-bind="'NAVBAR.SPARES'|translate"></h1>
+        </md-toolbar>
+        <md-content layout-padding>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.spares({sparesId:'SPARES_FOR_VB5'})">
+                {{'SPARES_FOR_VB5.TITLE'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.spares({sparesId:'SPARES_FOR_MCVCB_PANELS'})">
+                {{'SPARES_FOR_MCVCB_PANELS.TITLE'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.spares({sparesId:'SPARES_FOR_PCVCB'})">
+                {{'SPARES_FOR_PCVCB.TITLE'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.spares({sparesId:'SPARES_FOR_VCB'})">
+                {{'SPARES_FOR_VCB.TITLE'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.spares({sparesId:'SPARES_FOR_RMU'})">
+                {{'SPARES_FOR_RMU.TITLE'|translate}}
+            </md-button>
+            <md-button class="md-primary full-width margin0 panel-border-bottom" ui-sref="app.spares({sparesId:'SPARES_FOR_SF6'})">
+                {{'SPARES_FOR_SF6.TITLE'|translate}}
+            </md-button>
+        </md-content>
+    </md-sidenav>
+
+    <md-content flex layout-padding>
+        <div layout="column" layout-align="top center">
+            <div class="row">
+                <h1>{{header+'.TITLE'|translate}}</h1>
+                <hr>
+            </div>
+            <div ng-repeat="(key,value) in currentData" class="card not-visible col-sm-6 col-lg-6 col-md-6 col-xs-6" when-visible="animateElementIn"
+                when-not-visible="animateElementOut">
+                <img class="img-responsive img-rounded margin-auto" src="{{value.url}}" alt="no image" />
+                <p class="title-card">{{header+"."+key+".id"|translate}}</p>
+                <p class="title-card">{{header+"."+key+".name"|translate}}</p>
+            </div>
+        </div>
+    </md-content>
+
+</section>

@@ -1,0 +1,16 @@
+<section>
+    <div class="container">
+        <h1 class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut" ng-bind="'VISION.HEADER'|translate"></h1>
+        <hr>
+        <img class="not-visible img-responsive img-rounded" when-visible="animateElementIn" when-not-visible="animateElementOut"
+            src="images/vision.jpg" alt="no image" />
+        <div class="not-visible" when-visible="animateElementIn" when-not-visible="animateElementOut">
+            <p>
+                <strong ng-bind="'VISION.DESCRIPTION_BOLD'|translate"></strong>
+            </p>
+            <p ng-bind="'VISION.DESCRIPTION_NORMAL1'|translate"></p>
+            <p ng-bind="'VISION.DESCRIPTION_NORMAL2'|translate"></p>
+            <p ng-bind="'VISION.DESCRIPTION_NORMAL3'|translate"></p>
+        </div>
+    </div>
+</section>
