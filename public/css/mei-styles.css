@@ -8,6 +8,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.min-height840{
+  min-height: 840px;
+}
 
 .white {
   color: white;
