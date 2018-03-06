@@ -1,4 +1,6 @@
 <section>
+        <h1 ng-bind="'ALL_DEALERS.TITLE'|translate" class="not-visible text-center" when-visible="animateElementIn" when-not-visible="animateElementOut"></h1>
+        <hr>
     <div class="row cmp-details" id="myGroup" ng-repeat="region in regionList">
         <div class="row content-desc" data-toggle="collapse" data-target="#desc{{$index}}" data-parent="#myGroup">
             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">

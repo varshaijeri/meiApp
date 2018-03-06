@@ -3,8 +3,8 @@ angular.module('meiApp').controller('budgetController', budgetController);
 function budgetController($scope, $translate, $translatePartialLoader, $anchorScroll, $location, $http) {
   //var vm = this;
   $scope.budget = [];
-  $translatePartialLoader.addPart('mei');
-  $translate.refresh();
+  // $translatePartialLoader.addPart('mei');
+  // $translate.refresh();
   $scope.animateElementIn = function ($el) {
     $el.removeClass('not-visible');
     $el.addClass('animated fadeInLeft'); // this example leverages animate.css classes

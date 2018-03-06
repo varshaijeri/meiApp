@@ -87,7 +87,6 @@
                 </li>
                 <li>
                     <select class="form-control translation" ng-model="vm.lang" ng-change="vm.changeLang()">
-                        <option value="">-- Select Language --</option>
                         <option ng-value="lang.lang" ng-repeat="lang in vm.languages">{{lang.value}}</option>
                     </select>
                 </li>

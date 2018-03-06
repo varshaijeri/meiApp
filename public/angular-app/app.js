@@ -1,4 +1,4 @@
-var app = angular.module('meiApp',['ui.router','pascalprecht.translate','ngAnimate','angular-scroll-animate','ngMaterial','ngAria','ngMap']);
+var app = angular.module('meiApp',['ui.router','pascalprecht.translate','ngAnimate','angular-scroll-animate','ngMaterial','ngAria','ngMap','ngStorage']);
 
 app.config(['$stateProvider', '$urlRouterProvider',function($stateProvider,$urlRouterProvider){
     $urlRouterProvider.otherwise('/');
@@ -173,7 +173,8 @@ app.config(['$translateProvider','$translatePartialLoaderProvider', '$windowProv
     $translateProvider.preferredLanguage('en');
     $translateProvider.useLoader('$translatePartialLoader', {
 		urlTemplate: 'data/{lang}/{part}.json'
-	});
+    });
+    //$sessionStorage.lang = 'en';
 }]);
 
 // app.config( ['uiGmapGoogleMapApiProvider', function(GoogleMapApiProviders) {

@@ -2,8 +2,8 @@ angular.module('meiApp').controller('headerController',headerController);
 
 function headerController($translate, $translatePartialLoader){
     var vm = this;
-    $translatePartialLoader.addPart('mei');
-    $translate.refresh();
+    // $translatePartialLoader.addPart('mei');
+    // $translate.refresh();
     vm.languages = [{value:"English",lang:'en'},{value:"ಕನ್ನಡ",lang:'kn'}];
     //vm.lang = vm.languages[0].value;
 

@@ -1,7 +1,9 @@
 angular.module('meiApp').controller('homeController',homeController);
 
-function homeController($scope,$translate, $translatePartialLoader,$anchorScroll,$location){
+function homeController($scope,$translate, $translatePartialLoader,$anchorScroll,$location,$sessionStorage,$rootScope){
     var vm = this;
+    vm.lang = 'en'
+    $sessionStorage.lang = 'en';
     $translatePartialLoader.addPart('mei');
     $translate.refresh();
     vm.languages = [{value:"English",lang:'en'},{value:"ಕನ್ನಡ",lang:'kn'}];
@@ -9,6 +11,7 @@ function homeController($scope,$translate, $translatePartialLoader,$anchorScroll
 
     vm.changeLang = function(){
         $translate.use(vm.lang);
+        $sessionStorage.lang = vm.lang;
     }
     window.addEventListener("scroll", function() {
         if (window.scrollY > 500) {

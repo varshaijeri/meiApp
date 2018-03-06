@@ -3,8 +3,8 @@ angular.module('meiApp').controller('qualityController', qualityController);
 function qualityController($scope, $translate, $translatePartialLoader, $anchorScroll, $location, $http,$stateParams) {
   //var vm = this;
   $scope.profiles = [];
-  $translatePartialLoader.addPart('mei');
-  $translate.refresh();
+  // $translatePartialLoader.addPart('mei');
+  // $translate.refresh();
   $scope.page = "angular-app/quality/views/"+$stateParams.qualityId+".html";
   $scope.animateElementIn = function ($el) {
     $el.removeClass('not-visible');

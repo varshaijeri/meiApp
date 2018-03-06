@@ -3,8 +3,8 @@ angular.module('meiApp').controller('mngController', mngController);
 function mngController($scope, $translate, $translatePartialLoader, $http) {
     //var vm = this;
     $scope.profiles = [];
-    $translatePartialLoader.addPart('mei');
-    $translate.refresh();
+    // $translatePartialLoader.addPart('mei');
+    // $translate.refresh();
     $scope.animateElementIn = function ($el) {
         $el.removeClass('not-visible');
         $el.addClass('animated fadeInLeft'); // this example leverages animate.css classes

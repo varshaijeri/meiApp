@@ -2,8 +2,8 @@ angular.module('meiApp').controller('customersController', customersController);
 
 function customersController($scope, $translate, $translatePartialLoader, $anchorScroll, $location, $http,$stateParams) {
   //var vm = this;
-  $translatePartialLoader.addPart('mei');
-  $translate.refresh();
+  // $translatePartialLoader.addPart('mei');
+  // $translate.refresh();
   $scope.animateElementIn = function ($el) {
     $el.removeClass('not-visible');
     $el.addClass('animated fadeInLeft'); // this example leverages animate.css classes
