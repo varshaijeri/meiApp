@@ -28,7 +28,6 @@ function customersController($scope, $translate, $translatePartialLoader, $ancho
       $scope.header = customerId;
       delete $scope.currentData.HEADER;
       delete $scope.currentData.TITLE;
-      console.log($scope.currentData,$scope.header)
     //   $scope.routineTests = jsonData.data.ROUTINE_TESTS;
     //   $scope.research = jsonData.data.RESEARCH;
     //   delete $scope.routineTests.HEADER;

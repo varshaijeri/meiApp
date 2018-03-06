@@ -1,6 +1,6 @@
-angular.module('meiApp').controller('aboutController', aboutController);
+angular.module('meiApp').controller('contactController', contactController);
 
-function aboutController($scope, $translate, $translatePartialLoader,NgMap) {
+function contactController($scope, $translate, $translatePartialLoader,NgMap) {
     var vm = this;
     $translatePartialLoader.addPart('mei');
     $translate.refresh();

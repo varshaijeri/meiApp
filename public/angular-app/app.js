@@ -158,12 +158,12 @@ app.config(['$stateProvider', '$urlRouterProvider',function($stateProvider,$urlR
                 }
             }
         })
-        .state('app.about', {
-            url: 'about',
+        .state('app.contact', {
+            url: 'contact',
             views : {
                 'content@' : {
-                    templateUrl : 'angular-app/about/views/about.html',
-                    controller: 'aboutController'
+                    templateUrl : 'angular-app/contact/views/contact.html',
+                    controller: 'contactController'
                 }
             }
         });
