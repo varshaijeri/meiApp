@@ -13,7 +13,7 @@ app.use(express.static(path.join(__dirname,'public')));
 app.use('/node_modules',express.static(path.join(__dirname,'node_modules')));
 app.use('/bower_components',express.static(path.join(__dirname,'bower_components')));
 
-var server = app.listen(app.get('port'),function(){
+var server = app.listen(app.get('port'),"0.0.0.0",function(){
     var port = server.address().port;
     console.log('listening on port: '+port);
 })
